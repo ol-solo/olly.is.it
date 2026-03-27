@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home/homepage.md",
-                "mode": "preview",
+                "file": "projects/courses/Python для анализа данных.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "homepage"
+              "title": "Python для анализа данных"
             }
           }
         ]
@@ -206,13 +206,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home/homepage.md",
+                "file": "projects/courses/Python для анализа данных.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура homepage"
+              "title": "Структура Python для анализа данных"
             }
           }
         ]
@@ -236,13 +236,14 @@
       "homepage:Open homepage": false,
       "obsidian-spaced-repetition:Изучать карточки": false,
       "callout-manager:Insert Callout": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dfe74ffd257df762",
+  "active": "52e50d5733bb64a2",
   "lastOpenFiles": [
-    "projects/courses/Python для анализа данных.md",
     "home/homepage.md",
+    "projects/courses/Python для анализа данных.md",
     "04 Обработка данных.md",
     "03 Практика.md",
     "04  Практика.md",
