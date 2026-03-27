@@ -1,0 +1,9 @@
+{
+  "enabledCssSnippets": [
+    "dashboard",
+    "dashboard-ReadLineLength",
+    "naked-embeds",
+    "MCL Multi Column"
+  ],
+  "accentColor": "#c511e8"
+}

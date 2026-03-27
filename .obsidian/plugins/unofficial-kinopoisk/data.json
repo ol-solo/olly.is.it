@@ -1,0 +1,9 @@
+{
+  "apiToken": "8XNE9G5-0WYMPDD-QAT5SJM-KBDVB5Q",
+  "movieFileNameFormat": "{{name}} {{year}}",
+  "movieFolder": "projects/movies",
+  "movieTemplateFile": "templates/movie_template.md",
+  "seriesFileNameFormat": "{{name}} {{year}}",
+  "seriesFolder": "projects/series",
+  "seriesTemplateFile": "templates/serie_template.md"
+}

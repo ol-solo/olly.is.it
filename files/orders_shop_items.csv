@@ -1,0 +1,1012 @@
+category,item_name,price,orders,buyers
+apparatus,aerodynamic apparatus,420.0,42,41
+apparatus,aerodynamic apparatus charger,84.0,8,8
+apparatus,aerodynamic apparatus cleaner,252.0,12,12
+apparatus,aerodynamic apparatus how-to-manual,0.0,9,8
+apparatus,aerodynamic apparatus opener,210.0,10,10
+apparatus,aerodynamic apparatus wrapper,168.0,6,6
+apparatus,analog apparatus,270.0,75,74
+apparatus,analog apparatus carrying_case,162.0,17,17
+apparatus,analog apparatus how-to-manual,0.0,15,15
+apparatus,analog apparatus opener,135.0,26,26
+apparatus,analog apparatus refill,216.0,10,10
+apparatus,analog apparatus storage_unit,675.0,27,27
+apparatus,analog apparatus warmer,297.0,19,19
+apparatus,analog apparatus wrapper,108.0,12,12
+apparatus,apparatus,300.0,151,146
+apparatus,apparatus carrying_case,180.0,30,29
+apparatus,apparatus charger,60.0,47,46
+apparatus,apparatus cleaner,180.0,32,32
+apparatus,apparatus how-to-manual,0.0,15,15
+apparatus,apparatus opener,150.0,49,49
+apparatus,apparatus refill,240.0,8,8
+apparatus,apparatus storage_unit,750.0,47,47
+apparatus,apparatus warmer,330.0,12,12
+apparatus,apparatus wrapper,120.0,14,14
+apparatus,digital apparatus,330.0,39,39
+apparatus,digital apparatus carrying_case,198.0,19,19
+apparatus,digital apparatus cleaner,198.0,17,17
+apparatus,digital apparatus how-to-manual,0.0,7,7
+apparatus,digital apparatus opener,165.0,18,18
+apparatus,digital apparatus refill,264.0,13,13
+apparatus,digital apparatus warmer,363.0,26,26
+apparatus,extra-strength apparatus,600.0,55,55
+apparatus,extra-strength apparatus carrying_case,360.0,13,13
+apparatus,extra-strength apparatus charger,120.0,29,29
+apparatus,extra-strength apparatus opener,300.0,23,23
+apparatus,extra-strength apparatus refill,480.0,14,14
+apparatus,extra-strength apparatus warmer,660.0,10,10
+apparatus,extra-strength apparatus wrapper,240.0,6,6
+apparatus,fuzzy apparatus,300.0,98,93
+apparatus,fuzzy apparatus carrying_case,180.0,32,32
+apparatus,fuzzy apparatus charger,60.0,10,10
+apparatus,fuzzy apparatus how-to-manual,0.0,10,10
+apparatus,fuzzy apparatus opener,150.0,16,16
+apparatus,fuzzy apparatus refill,240.0,8,8
+apparatus,fuzzy apparatus storage_unit,750.0,10,10
+apparatus,fuzzy apparatus warmer,330.0,26,26
+apparatus,fuzzy apparatus wrapper,120.0,10,10
+apparatus,glossy apparatus,360.0,38,38
+apparatus,glossy apparatus how-to-manual,0.0,13,13
+apparatus,glossy apparatus opener,180.0,20,20
+apparatus,glossy apparatus storage_unit,900.0,10,10
+apparatus,glossy apparatus wrapper,144.0,12,12
+apparatus,industrial-strength apparatus,900.0,53,53
+apparatus,industrial-strength apparatus carrying_case,540.0,13,13
+apparatus,industrial-strength apparatus charger,180.0,30,30
+apparatus,industrial-strength apparatus opener,450.0,43,42
+apparatus,industrial-strength apparatus storage_unit,2250.0,15,15
+apparatus,industrial-strength apparatus warmer,990.0,10,10
+apparatus,industrial-strength apparatus wrapper,360.0,11,11
+apparatus,matte apparatus,375.0,27,27
+apparatus,matte apparatus cleaner,225.0,24,24
+apparatus,matte apparatus how-to-manual,0.0,29,28
+apparatus,matte apparatus opener,187.5,21,21
+apparatus,matte apparatus warmer,412.5,13,13
+apparatus,matte apparatus wrapper,150.0,17,17
+apparatus,miniature apparatus,165.0,24,24
+apparatus,miniature apparatus charger,33.0,17,17
+apparatus,miniature apparatus cleaner,99.0,55,53
+apparatus,miniature apparatus how-to-manual,0.0,11,11
+apparatus,miniature apparatus opener,82.5,19,19
+apparatus,miniature apparatus refill,132.0,61,61
+apparatus,miniature apparatus storage_unit,412.5,15,15
+apparatus,miniature apparatus warmer,181.5,14,13
+apparatus,miniature apparatus wrapper,66.0,12,12
+apparatus,organic apparatus,450.0,81,80
+apparatus,organic apparatus carrying_case,270.0,19,19
+apparatus,organic apparatus charger,90.0,70,66
+apparatus,organic apparatus how-to-manual,0.0,25,25
+apparatus,prize-winning apparatus,330.0,34,34
+apparatus,prize-winning apparatus carrying_case,198.0,11,11
+apparatus,prize-winning apparatus charger,66.0,11,11
+apparatus,prize-winning apparatus cleaner,198.0,26,26
+apparatus,prize-winning apparatus how-to-manual,0.0,15,15
+apparatus,prize-winning apparatus opener,165.0,12,12
+apparatus,prize-winning apparatus refill,264.0,13,13
+apparatus,prize-winning apparatus storage_unit,825.0,9,9
+apparatus,prize-winning apparatus warmer,363.0,25,25
+apparatus,rechargable apparatus,390.0,68,67
+apparatus,rechargable apparatus carrying_case,234.0,24,24
+apparatus,rechargable apparatus charger,78.0,11,11
+apparatus,rechargable apparatus wrapper,156.0,26,26
+apparatus,reflective apparatus,390.0,30,30
+apparatus,reflective apparatus carrying_case,234.0,13,13
+apparatus,reflective apparatus charger,78.0,37,37
+apparatus,reflective apparatus cleaner,234.0,26,26
+apparatus,reflective apparatus opener,195.0,10,10
+apparatus,reflective apparatus refill,312.0,6,6
+apparatus,reflective apparatus wrapper,156.0,15,15
+contraption,aerodynamic contraption,350.0,69,69
+contraption,aerodynamic contraption charger,70.0,31,31
+contraption,aerodynamic contraption cleaner,210.0,26,26
+contraption,aerodynamic contraption opener,175.0,23,23
+contraption,aerodynamic contraption refill,280.0,28,28
+contraption,aerodynamic contraption storage_unit,875.0,34,34
+contraption,aerodynamic contraption warmer,385.0,39,39
+contraption,aerodynamic contraption wrapper,140.0,21,21
+contraption,analog contraption,225.0,82,81
+contraption,analog contraption charger,45.0,10,10
+contraption,analog contraption cleaner,135.0,14,14
+contraption,analog contraption how-to-manual,0.0,10,10
+contraption,analog contraption opener,112.5,26,25
+contraption,analog contraption storage_unit,562.5,49,49
+contraption,analog contraption warmer,247.5,37,35
+contraption,analog contraption wrapper,90.0,11,11
+contraption,contraption,250.0,127,123
+contraption,contraption carrying_case,150.0,25,25
+contraption,contraption charger,50.0,33,33
+contraption,contraption cleaner,150.0,17,17
+contraption,contraption how-to-manual,0.0,27,27
+contraption,contraption opener,125.0,21,21
+contraption,contraption refill,200.0,9,9
+contraption,contraption storage_unit,625.0,52,52
+contraption,contraption warmer,275.0,31,31
+contraption,contraption wrapper,100.0,10,10
+contraption,digital contraption,275.0,52,51
+contraption,digital contraption carrying_case,165.0,8,8
+contraption,digital contraption charger,55.0,9,9
+contraption,digital contraption how-to-manual,0.0,21,21
+contraption,digital contraption opener,137.5,14,14
+contraption,digital contraption storage_unit,687.5,11,11
+contraption,digital contraption warmer,302.5,14,14
+contraption,digital contraption wrapper,110.0,11,11
+contraption,extra-strength contraption,500.0,35,35
+contraption,extra-strength contraption carrying_case,300.0,8,8
+contraption,extra-strength contraption how-to-manual,0.0,10,10
+contraption,extra-strength contraption opener,250.0,44,43
+contraption,extra-strength contraption storage_unit,1250.0,11,11
+contraption,fuzzy contraption,250.0,33,33
+contraption,fuzzy contraption carrying_case,150.0,16,16
+contraption,fuzzy contraption charger,50.0,12,12
+contraption,fuzzy contraption cleaner,150.0,14,14
+contraption,fuzzy contraption how-to-manual,0.0,14,14
+contraption,fuzzy contraption opener,125.0,26,26
+contraption,fuzzy contraption refill,200.0,28,28
+contraption,fuzzy contraption storage_unit,625.0,16,16
+contraption,fuzzy contraption warmer,275.0,11,11
+contraption,fuzzy contraption wrapper,100.0,16,16
+contraption,glossy contraption,300.0,71,70
+contraption,glossy contraption how-to-manual,0.0,16,16
+contraption,glossy contraption refill,240.0,13,13
+contraption,industrial-strength contraption,750.0,109,104
+contraption,industrial-strength contraption charger,150.0,15,15
+contraption,industrial-strength contraption how-to-manual,0.0,24,24
+contraption,industrial-strength contraption refill,600.0,13,13
+contraption,industrial-strength contraption storage_unit,1875.0,14,14
+contraption,industrial-strength contraption warmer,825.0,5,5
+contraption,industrial-strength contraption wrapper,300.0,13,13
+contraption,matte contraption,312.5,112,111
+contraption,matte contraption charger,62.5,7,7
+contraption,matte contraption opener,156.25,26,26
+contraption,matte contraption refill,250.0,29,29
+contraption,matte contraption storage_unit,781.25,26,26
+contraption,miniature contraption,137.5,46,45
+contraption,miniature contraption cleaner,82.5,13,13
+contraption,miniature contraption opener,68.75,8,8
+contraption,miniature contraption storage_unit,343.75,35,35
+contraption,miniature contraption warmer,151.25,15,15
+contraption,organic contraption,375.0,38,38
+contraption,organic contraption how-to-manual,0.0,15,15
+contraption,organic contraption refill,300.0,34,34
+contraption,organic contraption storage_unit,937.5,24,24
+contraption,organic contraption warmer,412.5,12,12
+contraption,prize-winning contraption,275.0,112,109
+contraption,prize-winning contraption carrying_case,165.0,12,12
+contraption,prize-winning contraption charger,55.0,17,17
+contraption,prize-winning contraption cleaner,165.0,10,10
+contraption,prize-winning contraption opener,137.5,16,16
+contraption,prize-winning contraption storage_unit,687.5,31,31
+contraption,prize-winning contraption warmer,302.5,9,9
+contraption,prize-winning contraption wrapper,110.0,18,18
+contraption,rechargable contraption,325.0,47,46
+contraption,rechargable contraption cleaner,195.0,30,30
+contraption,rechargable contraption how-to-manual,0.0,29,29
+contraption,rechargable contraption refill,260.0,14,13
+contraption,rechargable contraption storage_unit,812.5,16,16
+contraption,rechargable contraption wrapper,130.0,13,13
+contraption,reflective contraption,325.0,52,52
+contraption,reflective contraption charger,65.0,12,12
+contraption,reflective contraption cleaner,195.0,13,12
+contraption,reflective contraption how-to-manual,0.0,43,42
+contraption,reflective contraption refill,260.0,12,12
+contraption,reflective contraption warmer,357.5,28,27
+contraption,reflective contraption wrapper,130.0,22,22
+device,aerodynamic device,70.0,43,43
+device,aerodynamic device carrying_case,42.0,30,30
+device,aerodynamic device charger,14.0,19,19
+device,aerodynamic device cleaner,42.0,14,14
+device,aerodynamic device how-to-manual,0.0,16,16
+device,aerodynamic device opener,35.0,18,18
+device,aerodynamic device storage_unit,175.0,14,14
+device,aerodynamic device warmer,77.0,34,33
+device,aerodynamic device wrapper,28.0,33,33
+device,analog device,45.0,110,109
+device,analog device carrying_case,27.0,40,39
+device,analog device charger,9.0,15,15
+device,analog device how-to-manual,0.0,15,14
+device,analog device opener,22.5,15,15
+device,analog device refill,36.0,28,28
+device,analog device storage_unit,112.5,34,34
+device,analog device wrapper,18.0,39,39
+device,device,50.0,134,130
+device,device carrying_case,30.0,16,16
+device,device cleaner,30.0,11,11
+device,device how-to-manual,0.0,44,44
+device,device opener,25.0,15,15
+device,device refill,40.0,27,27
+device,device storage_unit,125.0,44,43
+device,device wrapper,20.0,74,74
+device,digital device,55.0,73,71
+device,digital device cleaner,33.0,13,13
+device,digital device refill,44.0,18,18
+device,digital device storage_unit,137.5,18,18
+device,digital device warmer,60.5,26,26
+device,extra-strength device,100.0,115,112
+device,extra-strength device carrying_case,60.0,16,16
+device,extra-strength device charger,20.0,34,34
+device,extra-strength device cleaner,60.0,55,55
+device,extra-strength device how-to-manual,0.0,25,25
+device,extra-strength device opener,50.0,19,18
+device,extra-strength device refill,80.0,19,19
+device,extra-strength device storage_unit,250.0,12,12
+device,extra-strength device warmer,110.0,16,16
+device,extra-strength device wrapper,40.0,24,24
+device,fuzzy device,50.0,40,40
+device,fuzzy device carrying_case,30.0,36,36
+device,fuzzy device charger,10.0,28,27
+device,fuzzy device cleaner,30.0,20,20
+device,fuzzy device how-to-manual,0.0,19,19
+device,fuzzy device refill,40.0,16,16
+device,fuzzy device wrapper,20.0,27,27
+device,glossy device,60.0,92,92
+device,glossy device carrying_case,36.0,10,10
+device,glossy device charger,12.0,20,20
+device,glossy device cleaner,36.0,21,21
+device,glossy device how-to-manual,0.0,16,16
+device,glossy device refill,48.0,22,22
+device,glossy device storage_unit,150.0,24,24
+device,glossy device warmer,66.0,13,13
+device,glossy device wrapper,24.0,20,20
+device,industrial-strength device,150.0,99,97
+device,industrial-strength device carrying_case,90.0,14,14
+device,industrial-strength device cleaner,90.0,36,36
+device,industrial-strength device opener,75.0,6,6
+device,industrial-strength device storage_unit,375.0,32,31
+device,industrial-strength device wrapper,60.0,19,19
+device,matte device,62.5,39,38
+device,matte device carrying_case,37.5,15,15
+device,matte device charger,12.5,46,46
+device,matte device opener,31.25,21,21
+device,matte device refill,50.0,39,39
+device,matte device storage_unit,156.25,17,17
+device,miniature device,27.5,133,130
+device,miniature device charger,5.5,34,34
+device,miniature device cleaner,16.5,32,32
+device,miniature device how-to-manual,0.0,18,18
+device,miniature device opener,13.75,25,25
+device,miniature device refill,22.0,18,18
+device,miniature device storage_unit,68.75,18,18
+device,miniature device wrapper,11.0,31,31
+device,organic device,75.0,71,69
+device,organic device charger,15.0,18,18
+device,organic device how-to-manual,0.0,20,20
+device,organic device opener,37.5,30,30
+device,organic device refill,60.0,15,15
+device,organic device storage_unit,187.5,10,9
+device,organic device wrapper,30.0,16,16
+device,prize-winning device charger,11.0,9,9
+device,prize-winning device how-to-manual,0.0,18,18
+device,prize-winning device opener,27.5,23,23
+device,prize-winning device storage_unit,137.5,21,21
+device,prize-winning device wrapper,22.0,39,39
+device,rechargable device,65.0,99,95
+device,rechargable device cleaner,39.0,23,23
+device,rechargable device how-to-manual,0.0,48,48
+device,rechargable device opener,32.5,8,8
+device,rechargable device storage_unit,162.5,29,29
+device,rechargable device warmer,71.5,40,40
+device,rechargable device wrapper,26.0,16,16
+device,reflective device,65.0,78,77
+device,reflective device carrying_case,39.0,15,15
+device,reflective device charger,13.0,18,18
+device,reflective device how-to-manual,0.0,38,38
+device,reflective device refill,52.0,16,16
+device,reflective device storage_unit,162.5,59,58
+device,reflective device warmer,71.5,27,27
+device,reflective device wrapper,26.0,29,28
+dongle,aerodynamic dongle,42.0,216,206
+dongle,aerodynamic dongle cleaner,25.2,10,10
+dongle,aerodynamic dongle how-to-manual,0.0,32,31
+dongle,aerodynamic dongle opener,21.0,32,32
+dongle,aerodynamic dongle storage_unit,105.0,11,11
+dongle,aerodynamic dongle wrapper,16.8,18,18
+dongle,analog dongle,27.0,73,71
+dongle,analog dongle carrying_case,16.2,40,40
+dongle,analog dongle opener,13.5,22,22
+dongle,analog dongle refill,21.6,20,20
+dongle,analog dongle storage_unit,67.5,27,27
+dongle,analog dongle wrapper,10.800000000000002,12,12
+dongle,digital dongle,33.0,95,93
+dongle,digital dongle charger,6.6,22,22
+dongle,digital dongle opener,16.5,15,15
+dongle,digital dongle refill,26.4,26,26
+dongle,digital dongle storage_unit,82.5,63,62
+dongle,dongle,30.0,183,176
+dongle,dongle carrying_case,18.0,38,38
+dongle,dongle charger,6.0,24,24
+dongle,dongle cleaner,18.0,19,19
+dongle,dongle how-to-manual,0.0,35,35
+dongle,dongle refill,24.0,40,40
+dongle,dongle storage_unit,75.0,68,68
+dongle,dongle warmer,33.0,27,27
+dongle,dongle wrapper,12.0,80,79
+dongle,extra-strength dongle,60.0,81,78
+dongle,extra-strength dongle carrying_case,36.0,22,22
+dongle,extra-strength dongle charger,12.0,20,20
+dongle,extra-strength dongle refill,48.0,17,17
+dongle,extra-strength dongle storage_unit,150.0,18,18
+dongle,extra-strength dongle warmer,66.0,12,12
+dongle,extra-strength dongle wrapper,24.0,31,31
+dongle,fuzzy dongle,30.0,82,80
+dongle,fuzzy dongle carrying_case,18.0,24,24
+dongle,fuzzy dongle charger,6.0,50,50
+dongle,fuzzy dongle cleaner,18.0,28,28
+dongle,fuzzy dongle how-to-manual,0.0,17,17
+dongle,fuzzy dongle opener,15.0,30,30
+dongle,fuzzy dongle storage_unit,75.0,23,23
+dongle,fuzzy dongle warmer,33.0,19,19
+dongle,fuzzy dongle wrapper,12.0,17,17
+dongle,glossy dongle,36.0,81,81
+dongle,glossy dongle charger,7.2,19,18
+dongle,glossy dongle cleaner,21.6,26,26
+dongle,glossy dongle opener,18.0,15,15
+dongle,glossy dongle storage_unit,90.0,19,19
+dongle,glossy dongle warmer,39.6,14,14
+dongle,glossy dongle wrapper,14.4,23,23
+dongle,industrial-strength dongle,90.0,124,122
+dongle,industrial-strength dongle carrying_case,54.0,22,22
+dongle,industrial-strength dongle how-to-manual,0.0,13,13
+dongle,industrial-strength dongle opener,45.0,12,12
+dongle,industrial-strength dongle refill,72.0,27,27
+dongle,industrial-strength dongle storage_unit,225.0,18,18
+dongle,industrial-strength dongle wrapper,36.0,17,17
+dongle,matte dongle,37.5,71,70
+dongle,matte dongle carrying_case,22.5,17,17
+dongle,matte dongle cleaner,22.5,16,16
+dongle,matte dongle how-to-manual,0.0,32,32
+dongle,matte dongle refill,30.0,64,63
+dongle,matte dongle wrapper,15.0,14,14
+dongle,miniature dongle,16.5,67,66
+dongle,miniature dongle carrying_case,9.9,24,24
+dongle,miniature dongle charger,3.3,16,16
+dongle,miniature dongle cleaner,9.9,28,28
+dongle,miniature dongle opener,8.25,36,35
+dongle,miniature dongle refill,13.2,22,22
+dongle,miniature dongle storage_unit,41.25,19,19
+dongle,miniature dongle wrapper,6.6,14,14
+dongle,organic dongle,45.0,109,106
+dongle,organic dongle carrying_case,27.0,31,31
+dongle,organic dongle charger,9.0,7,7
+dongle,organic dongle cleaner,27.0,18,18
+dongle,organic dongle how-to-manual,0.0,20,20
+dongle,organic dongle refill,36.0,24,24
+dongle,organic dongle storage_unit,112.5,39,38
+dongle,organic dongle wrapper,18.0,42,42
+dongle,prize-winning dongle,33.0,88,86
+dongle,prize-winning dongle carrying_case,19.8,18,18
+dongle,prize-winning dongle charger,6.6,18,18
+dongle,prize-winning dongle how-to-manual,0.0,56,56
+dongle,prize-winning dongle opener,16.5,20,20
+dongle,prize-winning dongle storage_unit,82.5,37,37
+dongle,prize-winning dongle warmer,36.3,20,20
+dongle,rechargable dongle,39.0,139,133
+dongle,rechargable dongle carrying_case,23.4,19,19
+dongle,rechargable dongle cleaner,23.4,14,14
+dongle,rechargable dongle how-to-manual,0.0,35,35
+dongle,rechargable dongle opener,19.5,17,17
+dongle,rechargable dongle refill,31.2,15,14
+dongle,rechargable dongle storage_unit,97.5,15,15
+dongle,reflective dongle,39.0,104,100
+dongle,reflective dongle carrying_case,23.4,15,15
+dongle,reflective dongle charger,7.8,14,14
+dongle,reflective dongle cleaner,23.4,11,11
+dongle,reflective dongle how-to-manual,0.0,35,35
+dongle,reflective dongle opener,19.5,15,15
+dongle,reflective dongle refill,31.2,32,31
+dongle,reflective dongle storage_unit,97.5,14,14
+dongle,reflective dongle warmer,42.9,42,42
+dongle,reflective dongle wrapper,15.6,40,39
+gadget,aerodynamic gadget,124.6,44,44
+gadget,aerodynamic gadget carrying_case,74.76,12,12
+gadget,aerodynamic gadget charger,24.92,45,44
+gadget,aerodynamic gadget cleaner,74.76,15,15
+gadget,aerodynamic gadget how-to-manual,0.0,21,21
+gadget,aerodynamic gadget opener,62.3,29,29
+gadget,aerodynamic gadget refill,99.67999999999999,28,28
+gadget,aerodynamic gadget storage_unit,311.5,33,33
+gadget,analog gadget,80.1,16,16
+gadget,analog gadget carrying_case,48.059999999999995,26,25
+gadget,analog gadget cleaner,48.06,28,28
+gadget,analog gadget how-to-manual,0.0,8,8
+gadget,analog gadget opener,40.05,19,19
+gadget,analog gadget storage_unit,200.25,20,20
+gadget,analog gadget warmer,88.11,21,21
+gadget,analog gadget wrapper,32.04,39,39
+gadget,digital gadget,97.9,73,70
+gadget,digital gadget carrying_case,58.74,11,11
+gadget,digital gadget charger,19.58,9,9
+gadget,digital gadget cleaner,58.74,44,44
+gadget,digital gadget how-to-manual,0.0,13,13
+gadget,digital gadget opener,48.95,38,37
+gadget,digital gadget storage_unit,244.75,16,16
+gadget,extra-strength gadget,178.0,76,76
+gadget,extra-strength gadget carrying_case,106.8,28,28
+gadget,extra-strength gadget how-to-manual,0.0,33,32
+gadget,extra-strength gadget opener,89.0,60,60
+gadget,extra-strength gadget warmer,195.8,14,14
+gadget,extra-strength gadget wrapper,71.2,32,32
+gadget,fuzzy gadget,89.0,10,10
+gadget,fuzzy gadget charger,17.8,9,9
+gadget,fuzzy gadget cleaner,53.4,15,15
+gadget,fuzzy gadget how-to-manual,0.0,13,13
+gadget,fuzzy gadget storage_unit,222.5,25,25
+gadget,fuzzy gadget wrapper,35.6,41,41
+gadget,gadget,89.0,56,55
+gadget,gadget carrying_case,53.4,14,14
+gadget,gadget charger,17.8,47,47
+gadget,gadget cleaner,53.4,50,49
+gadget,gadget how-to-manual,0.0,6,6
+gadget,gadget opener,44.5,27,27
+gadget,gadget refill,71.2,46,45
+gadget,gadget storage_unit,222.5,32,32
+gadget,gadget warmer,97.9,22,22
+gadget,gadget wrapper,35.6,19,19
+gadget,glossy gadget,106.8,70,68
+gadget,glossy gadget carrying_case,64.08,26,26
+gadget,glossy gadget charger,21.36,29,29
+gadget,glossy gadget how-to-manual,0.0,21,21
+gadget,glossy gadget opener,53.4,18,18
+gadget,glossy gadget storage_unit,267.0,80,78
+gadget,glossy gadget wrapper,42.71999999999999,14,14
+gadget,industrial-strength gadget,267.0,31,31
+gadget,industrial-strength gadget carrying_case,160.2,10,10
+gadget,industrial-strength gadget charger,53.4,27,27
+gadget,industrial-strength gadget cleaner,160.2,20,19
+gadget,industrial-strength gadget opener,133.5,20,20
+gadget,industrial-strength gadget refill,213.6,15,15
+gadget,industrial-strength gadget storage_unit,667.5,31,31
+gadget,industrial-strength gadget wrapper,106.8,10,10
+gadget,matte gadget,111.25,62,60
+gadget,matte gadget carrying_case,66.75,26,25
+gadget,matte gadget charger,22.25,14,14
+gadget,matte gadget how-to-manual,0.0,9,9
+gadget,matte gadget opener,55.63,21,21
+gadget,matte gadget storage_unit,278.13,21,21
+gadget,miniature gadget,48.95,61,59
+gadget,miniature gadget carrying_case,29.369999999999997,20,20
+gadget,miniature gadget charger,9.79,16,16
+gadget,miniature gadget cleaner,29.37,45,44
+gadget,miniature gadget refill,39.16,22,22
+gadget,miniature gadget storage_unit,122.38,17,16
+gadget,organic gadget,133.5,82,79
+gadget,organic gadget carrying_case,80.1,27,27
+gadget,organic gadget charger,26.7,25,24
+gadget,organic gadget wrapper,53.4,15,15
+gadget,prize-winning gadget,97.9,152,147
+gadget,prize-winning gadget carrying_case,58.739999999999995,5,5
+gadget,prize-winning gadget charger,19.58,47,47
+gadget,prize-winning gadget opener,48.95,34,34
+gadget,prize-winning gadget storage_unit,244.75,29,29
+gadget,prize-winning gadget warmer,107.69,8,8
+gadget,prize-winning gadget wrapper,39.16,37,37
+gadget,rechargable gadget,115.7,92,91
+gadget,rechargable gadget carrying_case,69.42,41,41
+gadget,rechargable gadget cleaner,69.42,31,31
+gadget,rechargable gadget how-to-manual,0.0,33,32
+gadget,rechargable gadget refill,92.56,8,8
+gadget,rechargable gadget storage_unit,289.25,47,47
+gadget,rechargable gadget warmer,127.27000000000001,19,19
+gadget,reflective gadget,115.7,85,85
+gadget,reflective gadget charger,23.140000000000004,28,28
+gadget,reflective gadget cleaner,69.42,14,14
+gadget,reflective gadget how-to-manual,0.0,15,15
+gadget,reflective gadget refill,92.56,46,46
+gadget,reflective gadget storage_unit,289.25,15,15
+gadget,reflective gadget warmer,127.27,35,35
+gadget,reflective gadget wrapper,46.28,43,42
+instrument,aerodynamic instrument,61.6,46,44
+instrument,aerodynamic instrument carrying_case,36.96,14,14
+instrument,aerodynamic instrument charger,12.32,16,16
+instrument,aerodynamic instrument opener,30.8,11,11
+instrument,aerodynamic instrument refill,49.28,8,8
+instrument,aerodynamic instrument storage_unit,154.0,20,20
+instrument,aerodynamic instrument warmer,67.76,26,26
+instrument,aerodynamic instrument wrapper,24.64,13,13
+instrument,analog instrument,39.6,68,65
+instrument,analog instrument carrying_case,23.76,41,40
+instrument,analog instrument charger,7.92,35,35
+instrument,analog instrument warmer,43.56,12,12
+instrument,analog instrument wrapper,15.84,16,16
+instrument,digital instrument,48.4,31,30
+instrument,digital instrument carrying_case,29.04,15,15
+instrument,digital instrument how-to-manual,0.0,12,12
+instrument,digital instrument opener,24.2,14,14
+instrument,digital instrument storage_unit,121.0,37,37
+instrument,digital instrument warmer,53.24,44,44
+instrument,extra-strength instrument,88.0,67,67
+instrument,extra-strength instrument carrying_case,52.8,38,37
+instrument,extra-strength instrument charger,17.6,41,41
+instrument,extra-strength instrument cleaner,52.8,15,15
+instrument,extra-strength instrument how-to-manual,0.0,57,56
+instrument,extra-strength instrument opener,44.0,17,17
+instrument,extra-strength instrument storage_unit,220.0,16,16
+instrument,extra-strength instrument warmer,96.8,11,11
+instrument,fuzzy instrument,44.0,88,88
+instrument,fuzzy instrument carrying_case,26.4,11,11
+instrument,fuzzy instrument charger,8.8,31,31
+instrument,fuzzy instrument cleaner,26.4,54,53
+instrument,fuzzy instrument how-to-manual,0.0,35,35
+instrument,fuzzy instrument opener,22.0,33,33
+instrument,fuzzy instrument refill,35.2,11,11
+instrument,glossy instrument,52.79999999999999,111,108
+instrument,glossy instrument cleaner,31.68,36,36
+instrument,glossy instrument how-to-manual,0.0,27,27
+instrument,glossy instrument opener,26.4,13,13
+instrument,glossy instrument storage_unit,132.0,15,15
+instrument,glossy instrument warmer,58.08,33,33
+instrument,industrial-strength instrument,132.0,106,103
+instrument,industrial-strength instrument carrying_case,79.2,32,32
+instrument,industrial-strength instrument charger,26.4,33,33
+instrument,industrial-strength instrument cleaner,79.2,33,33
+instrument,industrial-strength instrument how-to-manual,0.0,35,35
+instrument,industrial-strength instrument opener,66.0,32,32
+instrument,industrial-strength instrument refill,105.6,27,27
+instrument,industrial-strength instrument storage_unit,330.0,15,15
+instrument,industrial-strength instrument warmer,145.2,19,18
+instrument,industrial-strength instrument wrapper,52.8,15,15
+instrument,instrument,44.0,164,158
+instrument,instrument carrying_case,26.4,25,23
+instrument,instrument charger,8.8,34,34
+instrument,instrument cleaner,26.4,34,34
+instrument,instrument how-to-manual,0.0,23,23
+instrument,instrument opener,22.0,44,44
+instrument,instrument refill,35.2,58,56
+instrument,instrument storage_unit,110.0,25,24
+instrument,instrument warmer,48.4,17,17
+instrument,matte instrument,55.0,69,69
+instrument,matte instrument carrying_case,33.0,32,32
+instrument,matte instrument charger,11.0,11,11
+instrument,matte instrument cleaner,33.0,17,16
+instrument,matte instrument how-to-manual,0.0,11,11
+instrument,matte instrument opener,27.5,13,13
+instrument,matte instrument refill,44.0,23,23
+instrument,matte instrument storage_unit,137.5,15,15
+instrument,matte instrument warmer,60.5,9,9
+instrument,matte instrument wrapper,22.0,53,52
+instrument,miniature instrument,24.199999999999996,52,51
+instrument,miniature instrument carrying_case,14.520000000000001,24,24
+instrument,miniature instrument refill,19.36,35,34
+instrument,miniature instrument storage_unit,60.5,15,15
+instrument,miniature instrument warmer,26.62,15,15
+instrument,organic instrument,66.0,89,87
+instrument,organic instrument carrying_case,39.6,17,17
+instrument,organic instrument charger,13.2,27,27
+instrument,organic instrument opener,33.0,16,16
+instrument,organic instrument refill,52.8,35,35
+instrument,organic instrument storage_unit,165.0,60,60
+instrument,prize-winning instrument,48.39999999999999,94,92
+instrument,prize-winning instrument charger,9.68,18,18
+instrument,prize-winning instrument how-to-manual,0.0,20,20
+instrument,prize-winning instrument opener,24.2,27,27
+instrument,prize-winning instrument refill,38.72,12,12
+instrument,prize-winning instrument storage_unit,121.0,10,10
+instrument,prize-winning instrument warmer,53.24,22,22
+instrument,rechargable instrument,57.20000000000001,106,104
+instrument,rechargable instrument carrying_case,34.32,53,50
+instrument,rechargable instrument charger,11.44,33,33
+instrument,rechargable instrument cleaner,34.32,16,16
+instrument,rechargable instrument how-to-manual,0.0,14,14
+instrument,rechargable instrument opener,28.6,39,39
+instrument,rechargable instrument refill,45.76,15,15
+instrument,rechargable instrument storage_unit,143.0,54,54
+instrument,rechargable instrument warmer,62.92,22,22
+instrument,rechargable instrument wrapper,22.88,31,30
+instrument,reflective instrument,57.2,161,153
+instrument,reflective instrument charger,11.44,47,47
+instrument,reflective instrument cleaner,34.32,13,13
+instrument,reflective instrument opener,28.6,44,44
+instrument,reflective instrument refill,45.76,11,11
+instrument,reflective instrument storage_unit,143.0,39,38
+instrument,reflective instrument warmer,62.92,26,26
+mechanism,aerodynamic mechanism,21.0,115,112
+mechanism,aerodynamic mechanism carrying_case,12.6,14,14
+mechanism,aerodynamic mechanism charger,4.2,15,15
+mechanism,aerodynamic mechanism how-to-manual,0.0,24,24
+mechanism,aerodynamic mechanism refill,16.8,21,21
+mechanism,aerodynamic mechanism storage_unit,52.5,9,9
+mechanism,aerodynamic mechanism warmer,23.1,23,23
+mechanism,aerodynamic mechanism wrapper,8.4,15,15
+mechanism,analog mechanism,13.5,113,111
+mechanism,analog mechanism carrying_case,8.1,24,24
+mechanism,analog mechanism opener,6.75,16,16
+mechanism,analog mechanism storage_unit,33.75,25,25
+mechanism,analog mechanism warmer,14.85,59,58
+mechanism,analog mechanism wrapper,5.4,21,21
+mechanism,digital mechanism,16.5,94,93
+mechanism,digital mechanism carrying_case,9.9,58,58
+mechanism,digital mechanism charger,3.3,20,20
+mechanism,digital mechanism cleaner,9.9,25,25
+mechanism,digital mechanism how-to-manual,0.0,26,26
+mechanism,digital mechanism opener,8.25,23,23
+mechanism,digital mechanism refill,13.2,21,21
+mechanism,digital mechanism warmer,18.15,24,23
+mechanism,digital mechanism wrapper,6.599999999999999,53,51
+mechanism,extra-strength mechanism,30.0,88,85
+mechanism,extra-strength mechanism charger,6.0,35,35
+mechanism,extra-strength mechanism cleaner,18.0,23,23
+mechanism,extra-strength mechanism how-to-manual,0.0,40,39
+mechanism,extra-strength mechanism opener,15.0,11,11
+mechanism,extra-strength mechanism refill,24.0,10,10
+mechanism,extra-strength mechanism storage_unit,75.0,62,61
+mechanism,fuzzy mechanism,15.0,70,69
+mechanism,fuzzy mechanism charger,3.0,24,24
+mechanism,fuzzy mechanism cleaner,9.0,31,31
+mechanism,fuzzy mechanism how-to-manual,0.0,22,21
+mechanism,fuzzy mechanism opener,7.5,71,71
+mechanism,fuzzy mechanism storage_unit,37.5,32,32
+mechanism,fuzzy mechanism warmer,16.5,20,20
+mechanism,glossy mechanism,18.0,114,111
+mechanism,glossy mechanism carrying_case,10.8,34,34
+mechanism,glossy mechanism charger,3.6,46,46
+mechanism,glossy mechanism how-to-manual,0.0,21,21
+mechanism,glossy mechanism opener,9.0,47,47
+mechanism,glossy mechanism refill,14.4,32,32
+mechanism,glossy mechanism storage_unit,45.0,24,24
+mechanism,glossy mechanism warmer,19.8,24,23
+mechanism,glossy mechanism wrapper,7.2,17,17
+mechanism,industrial-strength mechanism,45.0,83,81
+mechanism,industrial-strength mechanism carrying_case,27.0,47,47
+mechanism,industrial-strength mechanism charger,9.0,65,65
+mechanism,industrial-strength mechanism cleaner,27.0,17,17
+mechanism,industrial-strength mechanism storage_unit,112.5,22,22
+mechanism,industrial-strength mechanism wrapper,18.0,37,37
+mechanism,matte mechanism,18.75,102,102
+mechanism,matte mechanism carrying_case,11.25,22,22
+mechanism,matte mechanism cleaner,11.25,33,32
+mechanism,matte mechanism how-to-manual,0.0,55,55
+mechanism,matte mechanism opener,9.38,15,15
+mechanism,matte mechanism storage_unit,46.88,14,14
+mechanism,matte mechanism warmer,20.63,17,17
+mechanism,matte mechanism wrapper,7.5,20,20
+mechanism,mechanism,15.0,242,230
+mechanism,mechanism carrying_case,9.0,15,15
+mechanism,mechanism charger,3.0,52,51
+mechanism,mechanism cleaner,9.0,42,42
+mechanism,mechanism how-to-manual,0.0,14,14
+mechanism,mechanism opener,7.5,19,19
+mechanism,mechanism storage_unit,37.5,14,14
+mechanism,mechanism warmer,16.5,21,21
+mechanism,mechanism wrapper,6.0,36,36
+mechanism,miniature mechanism,8.25,127,125
+mechanism,miniature mechanism carrying_case,4.95,41,41
+mechanism,miniature mechanism charger,1.65,23,23
+mechanism,miniature mechanism refill,6.6,40,40
+mechanism,miniature mechanism storage_unit,20.63,50,50
+mechanism,miniature mechanism warmer,9.08,34,34
+mechanism,miniature mechanism wrapper,3.2999999999999994,41,40
+mechanism,organic mechanism,22.5,87,87
+mechanism,organic mechanism how-to-manual,0.0,37,37
+mechanism,organic mechanism refill,18.0,46,46
+mechanism,organic mechanism storage_unit,56.25,15,15
+mechanism,organic mechanism wrapper,9.0,40,40
+mechanism,prize-winning mechanism,16.5,49,49
+mechanism,prize-winning mechanism carrying_case,9.9,21,21
+mechanism,prize-winning mechanism charger,3.2999999999999994,24,24
+mechanism,prize-winning mechanism cleaner,9.9,30,30
+mechanism,prize-winning mechanism refill,13.2,73,72
+mechanism,prize-winning mechanism storage_unit,41.25,57,55
+mechanism,prize-winning mechanism warmer,18.15,42,42
+mechanism,rechargable mechanism,19.5,103,100
+mechanism,rechargable mechanism carrying_case,11.7,20,20
+mechanism,rechargable mechanism cleaner,11.7,74,72
+mechanism,rechargable mechanism opener,9.75,21,21
+mechanism,rechargable mechanism refill,15.6,34,34
+mechanism,rechargable mechanism wrapper,7.8,22,22
+mechanism,reflective mechanism,19.5,62,60
+mechanism,reflective mechanism carrying_case,11.7,50,49
+mechanism,reflective mechanism charger,3.9000000000000004,36,36
+mechanism,reflective mechanism how-to-manual,0.0,51,51
+mechanism,reflective mechanism opener,9.75,52,52
+mechanism,reflective mechanism refill,15.6,23,23
+mechanism,reflective mechanism storage_unit,48.75,17,17
+mechanism,reflective mechanism warmer,21.45,14,14
+mechanism,reflective mechanism wrapper,7.8,39,39
+module,aerodynamic module,140.0,75,75
+module,aerodynamic module carrying_case,84.0,21,21
+module,aerodynamic module cleaner,84.0,12,12
+module,aerodynamic module how-to-manual,0.0,14,14
+module,aerodynamic module refill,112.0,18,18
+module,aerodynamic module warmer,154.0,10,10
+module,analog module,90.0,76,73
+module,analog module opener,45.0,9,9
+module,analog module refill,72.0,12,12
+module,analog module storage_unit,225.0,11,11
+module,analog module warmer,99.0,11,11
+module,analog module wrapper,36.0,10,10
+module,digital module,110.0,74,73
+module,digital module opener,55.0,10,10
+module,digital module refill,88.0,16,16
+module,digital module storage_unit,275.0,31,31
+module,digital module warmer,121.0,25,25
+module,digital module wrapper,44.0,14,14
+module,extra-strength module,200.0,90,88
+module,extra-strength module carrying_case,120.0,11,11
+module,extra-strength module cleaner,120.0,27,27
+module,extra-strength module how-to-manual,0.0,48,46
+module,extra-strength module storage_unit,500.0,29,29
+module,extra-strength module warmer,220.0,23,23
+module,fuzzy module,100.0,59,59
+module,fuzzy module charger,20.0,51,51
+module,fuzzy module cleaner,60.0,25,25
+module,fuzzy module how-to-manual,0.0,8,8
+module,fuzzy module opener,50.0,20,19
+module,fuzzy module refill,80.0,62,62
+module,fuzzy module storage_unit,250.0,26,25
+module,fuzzy module warmer,110.0,29,29
+module,fuzzy module wrapper,40.0,9,9
+module,glossy module,120.0,53,53
+module,glossy module carrying_case,72.0,16,16
+module,glossy module charger,24.0,12,12
+module,glossy module cleaner,72.0,12,12
+module,glossy module how-to-manual,0.0,26,26
+module,glossy module opener,60.0,23,23
+module,glossy module storage_unit,300.0,39,39
+module,glossy module warmer,132.0,18,18
+module,glossy module wrapper,48.0,21,21
+module,industrial-strength module,300.0,83,83
+module,industrial-strength module carrying_case,180.0,16,16
+module,industrial-strength module cleaner,180.0,11,11
+module,industrial-strength module how-to-manual,0.0,32,32
+module,industrial-strength module refill,240.0,55,55
+module,industrial-strength module storage_unit,750.0,30,30
+module,industrial-strength module warmer,330.0,6,6
+module,industrial-strength module wrapper,120.0,50,49
+module,matte module,125.0,57,57
+module,matte module cleaner,75.0,22,22
+module,matte module opener,62.5,34,34
+module,matte module refill,100.0,19,19
+module,matte module storage_unit,312.5,14,14
+module,matte module warmer,137.5,9,9
+module,matte module wrapper,50.0,25,25
+module,miniature module,55.0,64,63
+module,miniature module carrying_case,33.0,10,10
+module,miniature module charger,11.0,14,14
+module,miniature module cleaner,33.0,41,41
+module,miniature module storage_unit,137.5,32,32
+module,miniature module warmer,60.5,38,38
+module,module,100.0,106,101
+module,module carrying_case,60.0,16,16
+module,module charger,20.0,17,17
+module,module cleaner,60.0,25,25
+module,module how-to-manual,0.0,13,13
+module,module opener,50.0,40,39
+module,module refill,80.0,41,41
+module,module storage_unit,250.0,49,47
+module,module warmer,110.0,25,25
+module,module wrapper,40.0,12,12
+module,organic module,150.0,51,51
+module,organic module carrying_case,90.0,13,13
+module,organic module charger,30.0,10,10
+module,organic module refill,120.0,9,9
+module,organic module storage_unit,375.0,15,15
+module,organic module warmer,165.0,22,21
+module,organic module wrapper,60.0,25,25
+module,prize-winning module,110.0,61,60
+module,prize-winning module carrying_case,66.0,30,30
+module,prize-winning module charger,22.0,11,11
+module,prize-winning module cleaner,66.0,12,12
+module,prize-winning module how-to-manual,0.0,23,23
+module,prize-winning module opener,55.0,11,11
+module,prize-winning module refill,88.0,17,17
+module,prize-winning module storage_unit,275.0,15,15
+module,prize-winning module warmer,121.0,12,12
+module,rechargable module,130.0,81,80
+module,rechargable module carrying_case,78.0,19,19
+module,rechargable module cleaner,78.0,28,28
+module,rechargable module how-to-manual,0.0,11,11
+module,rechargable module opener,65.0,11,11
+module,rechargable module refill,104.0,12,12
+module,rechargable module storage_unit,325.0,15,15
+module,rechargable module wrapper,52.0,13,13
+module,reflective module,130.0,32,32
+module,reflective module carrying_case,78.0,12,12
+module,reflective module charger,26.0,12,12
+module,reflective module cleaner,78.0,34,34
+module,reflective module opener,65.0,15,15
+module,reflective module refill,104.0,17,17
+module,reflective module warmer,143.0,29,29
+module,reflective module wrapper,52.0,10,10
+tool,aerodynamic tool,35.0,134,132
+tool,aerodynamic tool carrying_case,21.0,42,41
+tool,aerodynamic tool charger,7.0,17,17
+tool,aerodynamic tool cleaner,21.0,16,16
+tool,aerodynamic tool how-to-manual,0.0,22,21
+tool,aerodynamic tool refill,28.0,48,47
+tool,aerodynamic tool storage_unit,87.5,40,39
+tool,aerodynamic tool warmer,38.5,11,11
+tool,analog tool,22.5,113,113
+tool,analog tool cleaner,13.5,18,18
+tool,analog tool how-to-manual,0.0,12,12
+tool,analog tool opener,11.25,33,33
+tool,analog tool refill,18.0,16,16
+tool,analog tool storage_unit,56.25,20,19
+tool,analog tool warmer,24.75,32,32
+tool,analog tool wrapper,9.0,19,19
+tool,digital tool,27.5,135,133
+tool,digital tool carrying_case,16.5,15,15
+tool,digital tool charger,5.5,24,24
+tool,digital tool how-to-manual,0.0,21,21
+tool,digital tool opener,13.75,13,13
+tool,digital tool refill,22.0,19,19
+tool,digital tool warmer,30.25,18,18
+tool,extra-strength tool,50.0,83,81
+tool,extra-strength tool carrying_case,30.0,66,64
+tool,extra-strength tool charger,10.0,24,24
+tool,extra-strength tool cleaner,30.0,16,16
+tool,extra-strength tool how-to-manual,0.0,36,35
+tool,extra-strength tool opener,25.0,32,31
+tool,extra-strength tool warmer,55.0,14,14
+tool,extra-strength tool wrapper,20.0,18,18
+tool,fuzzy tool,25.0,96,96
+tool,fuzzy tool carrying_case,15.0,33,33
+tool,fuzzy tool charger,5.0,16,16
+tool,fuzzy tool how-to-manual,0.0,28,28
+tool,fuzzy tool opener,12.5,17,17
+tool,fuzzy tool refill,20.0,10,10
+tool,fuzzy tool wrapper,10.0,60,59
+tool,glossy tool,30.0,122,121
+tool,glossy tool charger,6.0,25,25
+tool,glossy tool cleaner,18.0,68,66
+tool,glossy tool opener,15.0,19,19
+tool,glossy tool wrapper,12.0,18,18
+tool,industrial-strength tool,75.0,70,69
+tool,industrial-strength tool carrying_case,45.0,33,33
+tool,industrial-strength tool charger,15.0,16,16
+tool,industrial-strength tool cleaner,45.0,21,21
+tool,industrial-strength tool how-to-manual,0.0,17,17
+tool,industrial-strength tool opener,37.5,61,61
+tool,industrial-strength tool refill,60.0,22,22
+tool,industrial-strength tool storage_unit,187.5,13,13
+tool,industrial-strength tool wrapper,30.0,33,33
+tool,matte tool,31.25,36,35
+tool,matte tool carrying_case,18.75,49,48
+tool,matte tool charger,6.25,47,46
+tool,matte tool cleaner,18.75,37,37
+tool,matte tool how-to-manual,0.0,15,15
+tool,matte tool opener,15.63,15,15
+tool,matte tool refill,25.0,19,19
+tool,matte tool warmer,34.38,61,60
+tool,matte tool wrapper,12.5,22,22
+tool,miniature tool,13.75,51,50
+tool,miniature tool carrying_case,8.25,23,23
+tool,miniature tool how-to-manual,0.0,11,11
+tool,miniature tool opener,6.88,40,40
+tool,miniature tool refill,11.0,19,19
+tool,miniature tool warmer,15.130000000000003,17,17
+tool,organic tool,37.5,87,83
+tool,organic tool charger,7.5,50,50
+tool,organic tool cleaner,22.5,38,37
+tool,organic tool how-to-manual,0.0,34,34
+tool,organic tool opener,18.75,19,19
+tool,organic tool refill,30.0,17,17
+tool,organic tool storage_unit,93.75,15,15
+tool,organic tool warmer,41.25,32,32
+tool,organic tool wrapper,15.0,18,18
+tool,prize-winning tool,27.5,155,154
+tool,prize-winning tool charger,5.5,19,19
+tool,prize-winning tool cleaner,16.5,14,14
+tool,prize-winning tool how-to-manual,0.0,17,17
+tool,prize-winning tool opener,13.75,42,42
+tool,prize-winning tool refill,22.0,26,26
+tool,prize-winning tool storage_unit,68.75,11,11
+tool,prize-winning tool warmer,30.25,20,19
+tool,prize-winning tool wrapper,11.0,28,28
+tool,rechargable tool,32.5,117,112
+tool,rechargable tool charger,6.5,24,24
+tool,rechargable tool how-to-manual,0.0,19,19
+tool,rechargable tool refill,26.0,13,13
+tool,rechargable tool wrapper,13.0,21,21
+tool,reflective tool,32.5,59,59
+tool,reflective tool charger,6.5,33,33
+tool,reflective tool how-to-manual,0.0,23,23
+tool,reflective tool opener,16.25,36,36
+tool,reflective tool refill,26.0,30,30
+tool,reflective tool storage_unit,81.25,31,31
+tool,reflective tool wrapper,13.0,21,20
+tool,tool,25.0,158,153
+tool,tool charger,5.0,45,45
+tool,tool cleaner,15.0,42,41
+tool,tool how-to-manual,0.0,43,43
+tool,tool opener,12.5,17,17
+tool,tool refill,20.0,56,54
+tool,tool storage_unit,62.5,18,18
+tool,tool warmer,27.5,50,50
+tool,tool wrapper,10.0,53,53
+widget,aerodynamic widget,4.2,198,191
+widget,aerodynamic widget carrying_case,2.52,18,18
+widget,aerodynamic widget cleaner,2.52,27,27
+widget,aerodynamic widget opener,2.1,17,17
+widget,aerodynamic widget storage_unit,10.5,55,51
+widget,aerodynamic widget wrapper,1.68,30,30
+widget,analog widget,2.7,121,119
+widget,analog widget carrying_case,1.62,68,67
+widget,analog widget charger,0.54,49,49
+widget,analog widget cleaner,1.62,67,66
+widget,analog widget how-to-manual,0.0,20,20
+widget,analog widget opener,1.35,31,31
+widget,analog widget storage_unit,6.75,42,40
+widget,analog widget wrapper,1.08,20,20
+widget,digital widget,3.3,88,86
+widget,digital widget charger,0.66,26,26
+widget,digital widget cleaner,1.9799999999999998,19,19
+widget,digital widget how-to-manual,0.0,41,39
+widget,digital widget refill,2.64,18,18
+widget,digital widget storage_unit,8.25,14,14
+widget,digital widget warmer,3.63,19,19
+widget,digital widget wrapper,1.32,62,60
+widget,extra-strength widget,6.0,71,71
+widget,extra-strength widget carrying_case,3.6,25,25
+widget,extra-strength widget charger,1.2,24,24
+widget,extra-strength widget opener,3.0,122,118
+widget,extra-strength widget warmer,6.6,46,46
+widget,fuzzy widget,3.0,66,63
+widget,fuzzy widget charger,0.6,19,19
+widget,fuzzy widget cleaner,1.8000000000000003,21,21
+widget,fuzzy widget refill,2.4,59,59
+widget,fuzzy widget wrapper,1.2,15,15
+widget,glossy widget,3.6000000000000005,153,152
+widget,glossy widget charger,0.72,13,13
+widget,glossy widget how-to-manual,0.0,18,17
+widget,glossy widget opener,1.8000000000000003,21,21
+widget,glossy widget refill,2.88,23,23
+widget,industrial-strength widget,9.0,95,94
+widget,industrial-strength widget carrying_case,5.4,35,34
+widget,industrial-strength widget charger,1.8,17,17
+widget,industrial-strength widget cleaner,5.4,23,23
+widget,industrial-strength widget how-to-manual,0.0,21,21
+widget,industrial-strength widget refill,7.2,22,22
+widget,industrial-strength widget storage_unit,22.5,103,101
+widget,industrial-strength widget warmer,9.9,21,21
+widget,industrial-strength widget wrapper,3.6,35,33
+widget,matte widget,3.75,88,87
+widget,matte widget charger,0.75,43,43
+widget,matte widget how-to-manual,0.0,52,51
+widget,matte widget opener,1.88,69,68
+widget,matte widget refill,3.0,109,109
+widget,matte widget storage_unit,9.38,28,28
+widget,miniature widget,1.65,104,101
+widget,miniature widget charger,0.33,27,26
+widget,miniature widget how-to-manual,0.0,27,27
+widget,miniature widget refill,1.32,64,64
+widget,miniature widget warmer,1.82,51,50
+widget,miniature widget wrapper,0.66,21,21
+widget,organic widget,4.5,120,117
+widget,organic widget charger,0.9000000000000001,21,21
+widget,organic widget how-to-manual,0.0,16,15
+widget,organic widget refill,3.6,46,46
+widget,organic widget warmer,4.95,46,46
+widget,organic widget wrapper,1.8,40,40
+widget,prize-winning widget,3.3,50,50
+widget,prize-winning widget carrying_case,1.98,25,25
+widget,prize-winning widget cleaner,1.98,42,41
+widget,prize-winning widget how-to-manual,0.0,46,44
+widget,prize-winning widget opener,1.65,67,67
+widget,prize-winning widget refill,2.64,27,27
+widget,prize-winning widget storage_unit,8.25,23,23
+widget,prize-winning widget warmer,3.63,37,37
+widget,prize-winning widget wrapper,1.32,50,50
+widget,rechargable widget,3.8999999999999995,99,97
+widget,rechargable widget carrying_case,2.34,66,64
+widget,rechargable widget charger,0.7799999999999999,24,24
+widget,rechargable widget cleaner,2.34,21,21
+widget,rechargable widget how-to-manual,0.0,23,23
+widget,rechargable widget refill,3.12,29,29
+widget,rechargable widget warmer,4.29,36,36
+widget,rechargable widget wrapper,1.56,23,23
+widget,reflective widget,3.9,50,48
+widget,reflective widget carrying_case,2.34,19,19
+widget,reflective widget charger,0.78,63,63
+widget,reflective widget cleaner,2.34,14,14
+widget,reflective widget refill,3.12,52,51
+widget,reflective widget warmer,4.29,39,38
+widget,reflective widget wrapper,1.56,38,37
+widget,widget,3.0,108,106
+widget,widget carrying_case,1.8,25,25
+widget,widget charger,0.6,64,64
+widget,widget cleaner,1.8,27,27
+widget,widget how-to-manual,0.0,57,55
+widget,widget opener,1.5,79,79
+widget,widget refill,2.4,90,88
+widget,widget warmer,3.3000000000000003,43,43
+widget,widget wrapper,1.2,23,23

@@ -1,0 +1,1 @@
+<%* await tp.user.update_course_nav(tp) %>
