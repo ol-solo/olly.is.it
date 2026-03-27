@@ -1,0 +1,10 @@
+# Обsidian plugins (включая Remotely Save с токенами)
+.obsidian/plugins/
+
+# Всякое временное / локальное
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Мусор системы
+.DS_Store
+.trash/
