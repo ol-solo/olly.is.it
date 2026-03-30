@@ -55,6 +55,7 @@ folder /
 prompt true
 ```
 ^button-cgwz
+
 ---
 ## В процессе
 ```dataview
@@ -65,6 +66,7 @@ FROM !"templates"
 WHERE status = "wip"
 SORT file.mday DESC
 ```
+
 ---
 ## Новое
 ```dataview
