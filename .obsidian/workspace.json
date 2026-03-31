@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Обработка данных.md",
+                "file": "Фильтрация.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "04 Обработка данных"
+              "title": "Фильтрация"
             }
           },
           {
@@ -56,7 +56,7 @@
               "type": "markdown",
               "state": {
                 "file": "04 Обработка данных.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,8 +117,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -230,13 +229,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Обработка данных.md",
+                "file": "04  Практика.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 04 Обработка данных"
+              "title": "Структура 04  Практика"
             }
           }
         ]
@@ -264,8 +263,11 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "ca60a883e67a664d",
+  "active": "74ad7fbc8c0af755",
   "lastOpenFiles": [
+    "04 Обработка данных.md",
+    "04  Практика.md",
+    "Фильтрация.md",
     "projects/courses/Python для анализа данных.md",
     "home/homepage.md",
     "Untitled.md",
@@ -288,9 +290,7 @@
     "Циклы с неизвестным количеством итераций.md",
     "Встроенные методы Python.md",
     "Встроеннные функции Python.md",
-    "04  Практика.md",
     "01 Практика.md",
-    "04 Обработка данных.md",
     "01 Управляющие конструкции Python. Циклы и условия.md",
     "files/real_estate_data_n_missing.csv",
     "files/orders_shop_rel.csv",
