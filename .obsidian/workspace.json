@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
+                "file": "04 Обработка данных.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "04 Обработка данных"
             }
           },
           {
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "book",
+                "query": "reset",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +117,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -229,13 +230,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md",
+                "file": "04 Обработка данных.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Untitled"
+              "title": "Структура 04 Обработка данных"
             }
           }
         ]
@@ -263,13 +264,14 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "f37552e1059b29a6",
+  "active": "ca60a883e67a664d",
   "lastOpenFiles": [
+    "projects/courses/Python для анализа данных.md",
+    "home/homepage.md",
+    "Untitled.md",
+    "Untitled 1.md",
     "Book.xlsx",
     "2026-03-31.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "home/homepage.md",
     "Списки.md",
     "Типы данных.md",
     "Модуль math.md",
@@ -287,7 +289,6 @@
     "Встроенные методы Python.md",
     "Встроеннные функции Python.md",
     "04  Практика.md",
-    "projects/courses/Python для анализа данных.md",
     "01 Практика.md",
     "04 Обработка данных.md",
     "01 Управляющие конструкции Python. Циклы и условия.md",
@@ -309,7 +310,6 @@
     "script/update_course_nav.js",
     "script",
     "Новая папка",
-    "scripts/add_note_to_parent.js",
-    "scripts"
+    "scripts/add_note_to_parent.js"
   ]
 }
