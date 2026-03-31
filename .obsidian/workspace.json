@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,13 +229,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Обработка данных.md",
+                "file": "04  Практика.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 04 Обработка данных"
+              "title": "Структура 04  Практика"
             }
           }
         ]
@@ -263,10 +263,10 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "bc39b259284fa89d",
+  "active": "74ad7fbc8c0af755",
   "lastOpenFiles": [
-    "04  Практика.md",
     "04 Обработка данных.md",
+    "04  Практика.md",
     "Фильтрация.md",
     "projects/courses/Python для анализа данных.md",
     "home/homepage.md",
