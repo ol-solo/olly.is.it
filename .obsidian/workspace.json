@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Библиотеки и модули.md",
+                "file": "03 Работа с данными в Python, основы Pandas.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Библиотеки и модули"
+              "title": "03 Работа с данными в Python, основы Pandas"
             }
           }
         ],
@@ -217,7 +217,7 @@
               "state": {
                 "file": "04  Практика.md",
                 "followCursor": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
@@ -251,9 +251,12 @@
   "active": "7e1fd989f5471c6e",
   "lastOpenFiles": [
     "04 Обработка данных.md",
+    "03 Работа с данными в Python, основы Pandas.md",
+    "02 Продвинутые концепции. Функции и модули.md",
+    "01 Управляющие конструкции Python. Циклы и условия.md",
+    "Библиотеки и модули.md",
     "04  Практика.md",
     "files/real_estate_data.csv",
-    "Библиотеки и модули.md",
     "projects/courses/Python для анализа данных.md",
     "files/orders_cold_hot_dishes.csv",
     "home/homepage.md",
@@ -276,8 +279,6 @@
     "Библиотека Matplotlib.md",
     "Арифметические операции.md",
     "Циклы с неизвестным количеством итераций.md",
-    "Встроенные методы Python.md",
-    "Встроеннные функции Python.md",
     "files/real_estate_data_n_missing.csv",
     "files/orders_shop_rel.csv",
     "files/arts2.csv",
