@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Библиотеки и модули.md",
+                "file": "03 Работа с данными в Python, основы Pandas.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Библиотеки и модули"
+              "title": "03 Работа с данными в Python, основы Pandas"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reset",
+                "query": "lambda",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -251,10 +252,10 @@
   "active": "7e1fd989f5471c6e",
   "lastOpenFiles": [
     "04 Обработка данных.md",
+    "03 Работа с данными в Python, основы Pandas.md",
+    "Библиотеки и модули.md",
     "04  Практика.md",
     "files/real_estate_data (1).csv",
-    "Библиотеки и модули.md",
-    "03 Работа с данными в Python, основы Pandas.md",
     "02 Продвинутые концепции. Функции и модули.md",
     "01 Управляющие конструкции Python. Циклы и условия.md",
     "files/real_estate_data.csv",
