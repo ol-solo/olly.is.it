@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -243,13 +243,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04  Практика.md",
+                "file": "03 Практика.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 04  Практика"
+              "title": "Структура 03 Практика"
             }
           }
         ]
@@ -276,10 +276,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e1fd989f5471c6e",
+  "active": "766d5882a207aa3f",
   "lastOpenFiles": [
-    "03 Практика.md",
     "04  Практика.md",
+    "03 Практика.md",
     "03 Работа с данными в Python, основы Pandas.md",
     "01 Практика.md",
     "02 Практика.md",
