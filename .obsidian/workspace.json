@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "766d5882a207aa3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Практика.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "01 Практика"
+            }
+          },
+          {
             "id": "4ceb13f0a12b0b65",
             "type": "leaf",
             "state": {
@@ -49,7 +63,8 @@
               "title": "03 Работа с данными в Python, основы Pandas"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,8 +117,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -215,13 +229,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Обработка данных.md",
-                "followCursor": true,
+                "file": "01 Практика.md",
+                "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 04 Обработка данных"
+              "title": "Структура 01 Практика"
             }
           }
         ]
@@ -248,9 +262,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5ff7d7866ab6f0e0",
+  "active": "882a0d199e1b419a",
   "lastOpenFiles": [
+    "03 Практика.md",
     "04  Практика.md",
+    "02 Практика.md",
     "04 Обработка данных.md",
     "03 Работа с данными в Python, основы Pandas.md",
     "Библиотеки и модули.md",
@@ -278,7 +294,6 @@
     "Библиотека TextBlob.md",
     "Преобразование типов.md",
     "Библиотека Matplotlib.md",
-    "Арифметические операции.md",
     "files/real_estate_data_n_missing.csv",
     "files/orders_shop_rel.csv",
     "files/arts2.csv",
