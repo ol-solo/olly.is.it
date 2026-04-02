@@ -49,8 +49,7 @@
               "title": "Библиотеки и модули"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,13 +214,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04  Практика.md",
+                "file": "04 Обработка данных.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 04  Практика"
+              "title": "Структура 04 Обработка данных"
             }
           }
         ]
@@ -248,11 +247,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e1fd989f5471c6e",
+  "active": "5ff7d7866ab6f0e0",
   "lastOpenFiles": [
+    "04  Практика.md",
     "files/real_estate_data (1).csv",
     "04 Обработка данных.md",
-    "04  Практика.md",
     "Библиотеки и модули.md",
     "03 Работа с данными в Python, основы Pandas.md",
     "02 Продвинутые концепции. Функции и модули.md",
@@ -294,7 +293,6 @@
     "files/Pasted image 20260318114527.png",
     "files/Pasted image 20260316164947.png",
     "script/embed_current_block.js",
-    "script/update_course_nav.js",
-    "script"
+    "script/update_course_nav.js"
   ]
 }
