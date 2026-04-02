@@ -49,7 +49,8 @@
               "title": "Библиотеки и модули"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,13 +215,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Обработка данных.md",
+                "file": "04  Практика.md",
                 "followCursor": false,
                 "showSearch": true,
-                "searchQuery": "des"
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 04 Обработка данных"
+              "title": "Структура 04  Практика"
             }
           }
         ]
@@ -247,12 +248,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5ff7d7866ab6f0e0",
+  "active": "7e1fd989f5471c6e",
   "lastOpenFiles": [
+    "files/real_estate_data (1).csv",
+    "04 Обработка данных.md",
     "04  Практика.md",
     "Библиотеки и модули.md",
     "03 Работа с данными в Python, основы Pandas.md",
-    "04 Обработка данных.md",
     "02 Продвинутые концепции. Функции и модули.md",
     "01 Управляющие конструкции Python. Циклы и условия.md",
     "files/real_estate_data.csv",
@@ -277,7 +279,6 @@
     "Преобразование типов.md",
     "Библиотека Matplotlib.md",
     "Арифметические операции.md",
-    "Циклы с неизвестным количеством итераций.md",
     "files/real_estate_data_n_missing.csv",
     "files/orders_shop_rel.csv",
     "files/arts2.csv",
