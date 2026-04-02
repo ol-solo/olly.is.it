@@ -49,8 +49,7 @@
               "title": "03 Работа с данными в Python, основы Pandas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,13 +215,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04  Практика.md",
-                "followCursor": false,
+                "file": "04 Обработка данных.md",
+                "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 04  Практика"
+              "title": "Структура 04 Обработка данных"
             }
           }
         ]
@@ -249,10 +248,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e1fd989f5471c6e",
+  "active": "5ff7d7866ab6f0e0",
   "lastOpenFiles": [
-    "04 Обработка данных.md",
     "04  Практика.md",
+    "04 Обработка данных.md",
     "03 Работа с данными в Python, основы Pandas.md",
     "Библиотеки и модули.md",
     "files/real_estate_data (1).csv",
