@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Практика.md",
+                "file": "03 Практика.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "01 Практика"
+              "title": "03 Практика"
             }
           },
           {
@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "03 Работа с данными в Python, основы Pandas"
             }
+          },
+          {
+            "id": "1839c06934fc9c4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Практика.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "01 Практика"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,13 +243,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Практика.md",
-                "followCursor": false,
+                "file": "04  Практика.md",
+                "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 01 Практика"
+              "title": "Структура 04  Практика"
             }
           }
         ]
@@ -262,13 +276,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "882a0d199e1b419a",
+  "active": "7e1fd989f5471c6e",
   "lastOpenFiles": [
     "03 Практика.md",
     "04  Практика.md",
+    "03 Работа с данными в Python, основы Pandas.md",
+    "01 Практика.md",
     "02 Практика.md",
     "04 Обработка данных.md",
-    "03 Работа с данными в Python, основы Pandas.md",
     "Библиотеки и модули.md",
     "files/real_estate_data (1).csv",
     "02 Продвинутые концепции. Функции и модули.md",
@@ -293,7 +308,6 @@
     "Библиотека Seaborn.md",
     "Библиотека TextBlob.md",
     "Преобразование типов.md",
-    "Библиотека Matplotlib.md",
     "files/real_estate_data_n_missing.csv",
     "files/orders_shop_rel.csv",
     "files/arts2.csv",
