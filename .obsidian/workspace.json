@@ -35,8 +35,7 @@
               "title": "04  Практика"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,13 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04  Практика.md",
+                "file": "04 Обработка данных.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 04  Практика"
+              "title": "Структура 04 Обработка данных"
             }
           }
         ]
@@ -234,10 +233,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e1fd989f5471c6e",
+  "active": "5ff7d7866ab6f0e0",
   "lastOpenFiles": [
-    "04 Обработка данных.md",
     "04  Практика.md",
+    "04 Обработка данных.md",
     "files/orders_cold_hot_dishes.csv",
     "projects/courses/Python для анализа данных.md",
     "home/homepage.md",
