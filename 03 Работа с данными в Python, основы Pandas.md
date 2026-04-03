@@ -3,9 +3,10 @@ type: note
 aliases:
   - "? 03 Работа с данными в Python, основы Pandas"
 tags: []
-parent: [[Python для анализа данных]]
-next:
-prev:
+parent:
+  - - Python для анализа данных
+next: "[[03 Практика]]"
+prev: "[[02 Практика]]"
 ---
 # Определение типов данных DataFrame и Series
 

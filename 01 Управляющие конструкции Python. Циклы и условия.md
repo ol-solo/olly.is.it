@@ -3,9 +3,10 @@ type: note
 aliases:
   - "? 01 Управляющие конструкции Python. Циклы и условия"
 tags: []
-parent: [[Python для анализа данных]]
-next:
-prev:
+parent:
+  - - Python для анализа данных
+next: "[[01 Практика]]"
+prev: "[[00 Конференция о Python]]"
 ---
 # Основы синтаксиса Python
 ## Введение

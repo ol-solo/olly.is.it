@@ -4,81 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "70973658a3ef54cc",
+        "id": "4e903326f251e5e8",
         "type": "tabs",
         "children": [
           {
-            "id": "5ff7d7866ab6f0e0",
+            "id": "ef14c5170d72176f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Обработка данных.md",
+                "file": "05 Визуализация данных.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "04 Обработка данных"
+              "title": "05 Визуализация данных"
             }
           },
           {
-            "id": "7e1fd989f5471c6e",
+            "id": "5b9503c67e563ce3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04  Практика.md",
+                "file": "05 Практика.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "04  Практика"
+              "title": "05 Практика"
             }
           },
           {
-            "id": "766d5882a207aa3f",
+            "id": "7316e46a317265f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Практика.md",
+                "file": "projects/courses/Python для анализа данных.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "03 Практика"
+              "title": "Python для анализа данных"
             }
           },
           {
-            "id": "4ceb13f0a12b0b65",
+            "id": "11d96edfa55017ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Работа с данными в Python, основы Pandas.md",
-                "mode": "preview",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "03 Работа с данными в Python, основы Pandas"
-            }
-          },
-          {
-            "id": "1839c06934fc9c4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Практика.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "01 Практика"
+              "title": "Новая вкладка"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -224,14 +206,24 @@
             "id": "6177a2e4f608cbba",
             "type": "leaf",
             "state": {
-              "type": "BC-matrix",
+              "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "Плагин больше не активен"
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "8098cf96fc1828cb",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {},
+              "icon": "BC-trail-icon",
+              "title": "Breadcrumbs Matrix"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       },
       {
         "id": "3f608c19513a9dad",
@@ -244,13 +236,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Практика.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 03 Практика"
+              "title": "Структура"
             }
           }
         ]
@@ -275,25 +266,28 @@
       "homepage:Open homepage": false,
       "obsidian-spaced-repetition:Изучать карточки": false,
       "callout-manager:Insert Callout": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "766d5882a207aa3f",
+  "active": "11d96edfa55017ef",
   "lastOpenFiles": [
-    "04  Практика.md",
-    "03 Практика.md",
-    "03 Работа с данными в Python, основы Pandas.md",
+    "projects/courses/Python для анализа данных.md",
+    "05 Визуализация данных.md",
+    "05 Практика.md",
+    "home/homepage.md",
     "01 Практика.md",
-    "02 Практика.md",
+    "03 Работа с данными в Python, основы Pandas.md",
+    "03 Практика.md",
+    "04  Практика.md",
     "04 Обработка данных.md",
+    "02 Практика.md",
     "Библиотеки и модули.md",
     "files/real_estate_data (1).csv",
     "02 Продвинутые концепции. Функции и модули.md",
     "01 Управляющие конструкции Python. Циклы и условия.md",
     "files/real_estate_data.csv",
-    "projects/courses/Python для анализа данных.md",
     "files/orders_cold_hot_dishes.csv",
-    "home/homepage.md",
     "Фильтрация.md",
     "Untitled.md",
     "Untitled 1.md",
@@ -308,8 +302,6 @@
     "Библиотека Pandas.md",
     "Основы синтаксиса.md",
     "Библиотека Seaborn.md",
-    "Библиотека TextBlob.md",
-    "Преобразование типов.md",
     "files/real_estate_data_n_missing.csv",
     "files/orders_shop_rel.csv",
     "files/arts2.csv",
