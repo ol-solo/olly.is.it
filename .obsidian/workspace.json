@@ -63,8 +63,7 @@
               "title": "code"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,13 +238,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/code.md",
+                "file": "05 Визуализация данных.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура code"
+              "title": "Структура 05 Визуализация данных"
             }
           }
         ]
@@ -273,13 +272,13 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "d8d8177341bd140e",
+  "active": "ef14c5170d72176f",
   "lastOpenFiles": [
     "05 Практика.md",
-    "templates/code.md",
-    "04  Практика.md",
     "05 Визуализация данных.md",
     "02 Продвинутые концепции. Функции и модули.md",
+    "templates/code.md",
+    "04  Практика.md",
     "04 Обработка данных.md",
     "03 Работа с данными в Python, основы Pandas.md",
     "03 Практика.md",
