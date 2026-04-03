@@ -41,15 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/courses/Python для анализа данных.md",
+                "file": "Библиотеки и модули.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Python для анализа данных"
+              "title": "Библиотеки и модули"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -225,21 +226,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 Визуализация данных.md",
+                "file": "Библиотеки и модули.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 05 Визуализация данных"
+              "title": "Структура Библиотеки и модули"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 343.5,
-    "collapsed": true
+    "width": 343.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -260,12 +260,12 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "ef14c5170d72176f",
+  "active": "7316e46a317265f0",
   "lastOpenFiles": [
-    "05 Практика.md",
     "projects/courses/Python для анализа данных.md",
-    "Без названия 1.md",
     "05 Визуализация данных.md",
+    "05 Практика.md",
+    "Без названия 1.md",
     "home/homepage.md",
     "01 Практика.md",
     "03 Работа с данными в Python, основы Pandas.md",
