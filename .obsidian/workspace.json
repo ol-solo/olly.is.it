@@ -48,19 +48,8 @@
               "icon": "lucide-file",
               "title": "Python для анализа данных"
             }
-          },
-          {
-            "id": "11d96edfa55017ef",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -236,12 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "05 Визуализация данных.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура 05 Визуализация данных"
             }
           }
         ]
@@ -270,11 +260,12 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "11d96edfa55017ef",
+  "active": "ef14c5170d72176f",
   "lastOpenFiles": [
-    "projects/courses/Python для анализа данных.md",
-    "05 Визуализация данных.md",
     "05 Практика.md",
+    "projects/courses/Python для анализа данных.md",
+    "Без названия 1.md",
+    "05 Визуализация данных.md",
     "home/homepage.md",
     "01 Практика.md",
     "03 Работа с данными в Python, основы Pandas.md",
@@ -301,7 +292,6 @@
     "Библиотека NumPy.md",
     "Библиотека Pandas.md",
     "Основы синтаксиса.md",
-    "Библиотека Seaborn.md",
     "files/real_estate_data_n_missing.csv",
     "files/orders_shop_rel.csv",
     "files/arts2.csv",
