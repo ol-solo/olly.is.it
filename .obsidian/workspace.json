@@ -63,7 +63,8 @@
               "title": "04  Практика"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,13 +240,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 Визуализация данных.md",
+                "file": "05 Практика.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 05 Визуализация данных"
+              "title": "Структура 05 Практика"
             }
           }
         ]
@@ -273,11 +274,11 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "ef14c5170d72176f",
+  "active": "5b9503c67e563ce3",
   "lastOpenFiles": [
+    "05 Визуализация данных.md",
     "05 Практика.md",
     "04  Практика.md",
-    "05 Визуализация данных.md",
     "02 Продвинутые концепции. Функции и модули.md",
     "04 Обработка данных.md",
     "03 Работа с данными в Python, основы Pandas.md",
