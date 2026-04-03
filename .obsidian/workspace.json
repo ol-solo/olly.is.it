@@ -63,8 +63,7 @@
               "title": "04  Практика"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6df46271483b8271",
@@ -239,13 +239,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Продвинутые концепции. Функции и модули.md",
+                "file": "05 Визуализация данных.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 02 Продвинутые концепции. Функции и модули"
+              "title": "Структура 05 Визуализация данных"
             }
           }
         ]
@@ -273,8 +273,9 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "7316e46a317265f0",
+  "active": "ef14c5170d72176f",
   "lastOpenFiles": [
+    "02 Продвинутые концепции. Функции и модули.md",
     "04 Обработка данных.md",
     "04  Практика.md",
     "03 Работа с данными в Python, основы Pandas.md",
@@ -288,7 +289,6 @@
     "01 Практика.md",
     "02 Практика.md",
     "files/real_estate_data (1).csv",
-    "02 Продвинутые концепции. Функции и модули.md",
     "01 Управляющие конструкции Python. Циклы и условия.md",
     "files/real_estate_data.csv",
     "files/orders_cold_hot_dishes.csv",
