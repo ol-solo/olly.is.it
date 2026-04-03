@@ -63,8 +63,7 @@
               "title": "04  Практика"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6df46271483b8271",
@@ -240,13 +238,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 Практика.md",
-                "followCursor": false,
+                "file": "05 Визуализация данных.md",
+                "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 05 Практика"
+              "title": "Структура 05 Визуализация данных"
             }
           }
         ]
@@ -274,10 +272,11 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "5b9503c67e563ce3",
+  "active": "882a0d199e1b419a",
   "lastOpenFiles": [
-    "05 Визуализация данных.md",
     "05 Практика.md",
+    "templates/code.md",
+    "05 Визуализация данных.md",
     "04  Практика.md",
     "02 Продвинутые концепции. Функции и модули.md",
     "04 Обработка данных.md",
@@ -305,7 +304,6 @@
     "Модуль itertools.md",
     "Библиотека NumPy.md",
     "Библиотека Pandas.md",
-    "Основы синтаксиса.md",
     "files/real_estate_data_n_missing.csv",
     "files/orders_shop_rel.csv",
     "files/arts2.csv",
