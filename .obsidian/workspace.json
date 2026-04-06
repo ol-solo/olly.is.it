@@ -49,7 +49,8 @@
               "title": "04  Практика"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lambda",
+                "query": "ylabel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +103,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -224,13 +226,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 Визуализация данных.md",
+                "file": "05 Практика.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 05 Визуализация данных"
+              "title": "Структура 05 Практика"
             }
           }
         ]
@@ -258,10 +260,12 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "ef14c5170d72176f",
+  "active": "5b9503c67e563ce3",
   "lastOpenFiles": [
-    "05 Практика.md",
     "05 Визуализация данных.md",
+    "05 Практика.md",
+    "projects/courses/Python для анализа данных.md",
+    "02 Практика.md",
     "04  Практика.md",
     "02 Продвинутые концепции. Функции и модули.md",
     "templates/code.md",
@@ -269,11 +273,9 @@
     "03 Работа с данными в Python, основы Pandas.md",
     "03 Практика.md",
     "Библиотеки и модули.md",
-    "projects/courses/Python для анализа данных.md",
     "Без названия 1.md",
     "home/homepage.md",
     "01 Практика.md",
-    "02 Практика.md",
     "files/real_estate_data (1).csv",
     "01 Управляющие конструкции Python. Циклы и условия.md",
     "files/real_estate_data.csv",
