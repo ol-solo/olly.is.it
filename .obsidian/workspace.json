@@ -49,8 +49,7 @@
               "title": "04  Практика"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,13 +224,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 Практика.md",
+                "file": "05 Визуализация данных.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 05 Практика"
+              "title": "Структура 05 Визуализация данных"
             }
           }
         ]
@@ -259,10 +258,10 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "5b9503c67e563ce3",
+  "active": "ef14c5170d72176f",
   "lastOpenFiles": [
-    "05 Визуализация данных.md",
     "05 Практика.md",
+    "05 Визуализация данных.md",
     "04  Практика.md",
     "02 Продвинутые концепции. Функции и модули.md",
     "templates/code.md",
