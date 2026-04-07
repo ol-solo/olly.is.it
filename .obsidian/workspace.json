@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ylabel",
+                "query": ".str.lower",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -225,13 +226,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 Практика.md",
+                "file": "06 Исследовательский анализ.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 06 Практика"
+              "title": "Структура 06 Исследовательский анализ"
             }
           }
         ]
@@ -259,8 +260,9 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "23b163c7c36c1929",
+  "active": "5ddcdb95a7841cd5",
   "lastOpenFiles": [
+    "03 Практика.md",
     "06 Исследовательский анализ.md",
     "06 Практика.md",
     "05 Практика.md",
@@ -276,7 +278,6 @@
     "templates/code.md",
     "04 Обработка данных.md",
     "03 Работа с данными в Python, основы Pandas.md",
-    "03 Практика.md",
     "Библиотеки и модули.md",
     "Без названия 1.md",
     "01 Практика.md",
