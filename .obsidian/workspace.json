@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ".str.lower",
+                "query": "duplicates",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -262,9 +262,9 @@
   },
   "active": "5ddcdb95a7841cd5",
   "lastOpenFiles": [
-    "03 Практика.md",
-    "06 Исследовательский анализ.md",
     "06 Практика.md",
+    "06 Исследовательский анализ.md",
+    "03 Практика.md",
     "05 Практика.md",
     "files/Pasted image 20260407114332.png",
     "05 Визуализация данных.md",
