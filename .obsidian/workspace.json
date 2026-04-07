@@ -8,48 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ef14c5170d72176f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 Визуализация данных.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "05 Визуализация данных"
-            }
-          },
-          {
-            "id": "5b9503c67e563ce3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 Практика.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "05 Практика"
-            }
-          },
-          {
             "id": "23b163c7c36c1929",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04  Практика.md",
+                "file": "06 Практика.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "04  Практика"
+              "title": "06 Практика"
+            }
+          },
+          {
+            "id": "5ddcdb95a7841cd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 Исследовательский анализ.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "06 Исследовательский анализ"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,8 +89,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -225,13 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 Визуализация данных.md",
+                "file": "06 Исследовательский анализ.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 05 Визуализация данных"
+              "title": "Структура 06 Исследовательский анализ"
             }
           }
         ]
@@ -259,14 +245,19 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "ef14c5170d72176f",
+  "active": "5ddcdb95a7841cd5",
   "lastOpenFiles": [
-    "files/Pasted image 20260406175059.png",
-    "05 Практика.md",
+    "files/Pasted image 20260407114332.png",
+    "06 Практика.md",
     "05 Визуализация данных.md",
-    "projects/courses/Python для анализа данных.md",
-    "02 Практика.md",
+    "05 Практика.md",
+    "09 Практика.md",
+    "06 Исследовательский анализ.md",
     "04  Практика.md",
+    "projects/courses/Python для анализа данных.md",
+    "home/homepage.md",
+    "files/Pasted image 20260406175059.png",
+    "02 Практика.md",
     "02 Продвинутые концепции. Функции и модули.md",
     "templates/code.md",
     "04 Обработка данных.md",
@@ -274,7 +265,6 @@
     "03 Практика.md",
     "Библиотеки и модули.md",
     "Без названия 1.md",
-    "home/homepage.md",
     "01 Практика.md",
     "files/real_estate_data (1).csv",
     "01 Управляющие конструкции Python. Циклы и условия.md",
@@ -288,9 +278,6 @@
     "Списки.md",
     "Типы данных.md",
     "Модуль math.md",
-    "Библиотека Math.md",
-    "Модуль itertools.md",
-    "Библиотека NumPy.md",
     "files/real_estate_data_n_missing.csv",
     "files/orders_shop_rel.csv",
     "files/arts2.csv",
@@ -304,7 +291,6 @@
     "files/Pasted image 20260318124750.png",
     "files/Pasted image 20260318114812.png",
     "files/Pasted image 20260318114527.png",
-    "files/Pasted image 20260316164947.png",
     "script/embed_current_block.js",
     "script/update_course_nav.js"
   ]
