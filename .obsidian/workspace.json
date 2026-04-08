@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -225,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 Практика.md",
+                "file": "06 Исследовательский анализ.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 06 Практика"
+              "title": "Структура 06 Исследовательский анализ"
             }
           }
         ]
@@ -259,10 +259,10 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "23b163c7c36c1929",
+  "active": "5ddcdb95a7841cd5",
   "lastOpenFiles": [
-    "06 Исследовательский анализ.md",
     "06 Практика.md",
+    "06 Исследовательский анализ.md",
     "05 Практика.md",
     "files/real_estate_data_n_missing (1).csv",
     "03 Практика.md",
