@@ -27,30 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 Практика.md",
+                "file": "01 Практика.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "06 Практика"
-            }
-          },
-          {
-            "id": "5ddcdb95a7841cd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 Исследовательский анализ.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "06 Исследовательский анализ"
+              "title": "01 Практика"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,13 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 Исследовательский анализ.md",
+                "file": "01 Практика.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 06 Исследовательский анализ"
+              "title": "Структура 01 Практика"
             }
           }
         ]
@@ -259,7 +245,7 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "5ddcdb95a7841cd5",
+  "active": "23b163c7c36c1929",
   "lastOpenFiles": [
     "06 Практика.md",
     "06 Исследовательский анализ.md",
