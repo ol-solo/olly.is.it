@@ -35,8 +35,7 @@
               "title": "01 Практика"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,13 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Практика.md",
+                "file": "05 Практика.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 01 Практика"
+              "title": "Структура 05 Практика"
             }
           }
         ]
@@ -245,8 +244,9 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "23b163c7c36c1929",
+  "active": "031fdb55166757de",
   "lastOpenFiles": [
+    "01 Практика.md",
     "06 Практика.md",
     "06 Исследовательский анализ.md",
     "05 Практика.md",
@@ -266,7 +266,6 @@
     "03 Работа с данными в Python, основы Pandas.md",
     "Библиотеки и модули.md",
     "Без названия 1.md",
-    "01 Практика.md",
     "files/real_estate_data (1).csv",
     "01 Управляющие конструкции Python. Циклы и условия.md",
     "files/real_estate_data.csv",
