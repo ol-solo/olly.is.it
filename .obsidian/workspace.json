@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 Практика.md",
+                "file": "04  Практика.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "06 Практика"
+              "title": "04  Практика"
             }
           },
           {
@@ -210,13 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 Практика.md",
+                "file": "04  Практика.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 06 Практика"
+              "title": "Структура 04  Практика"
             }
           }
         ]
@@ -246,9 +246,10 @@
   },
   "active": "031fdb55166757de",
   "lastOpenFiles": [
+    "04 Обработка данных.md",
     "05 Практика.md",
-    "01 Практика.md",
     "06 Практика.md",
+    "01 Практика.md",
     "06 Исследовательский анализ.md",
     "files/real_estate_data_n_missing (1).csv",
     "03 Практика.md",
@@ -262,7 +263,6 @@
     "02 Практика.md",
     "02 Продвинутые концепции. Функции и модули.md",
     "templates/code.md",
-    "04 Обработка данных.md",
     "03 Работа с данными в Python, основы Pandas.md",
     "Библиотеки и модули.md",
     "Без названия 1.md",
