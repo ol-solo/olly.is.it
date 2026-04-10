@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 Практика.md",
+                "file": "06 Исследовательский анализ.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "06 Практика"
+              "title": "06 Исследовательский анализ"
             }
           },
           {
@@ -210,13 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 Практика.md",
+                "file": "06 Исследовательский анализ.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 06 Практика"
+              "title": "Структура 06 Исследовательский анализ"
             }
           }
         ]
@@ -246,11 +246,11 @@
   },
   "active": "031fdb55166757de",
   "lastOpenFiles": [
+    "06 Практика.md",
     "04 Обработка данных.md",
     "05 Практика.md",
     "05 Визуализация данных.md",
     "06 Исследовательский анализ.md",
-    "06 Практика.md",
     "04  Практика.md",
     "01 Практика.md",
     "files/real_estate_data_n_missing (1).csv",
