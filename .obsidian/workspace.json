@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04  Практика.md",
-                "mode": "source",
+                "file": "05 Практика.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "04  Практика"
+              "title": "05 Практика"
             }
           },
           {
@@ -210,13 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04  Практика.md",
+                "file": "05 Практика.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 04  Практика"
+              "title": "Структура 05 Практика"
             }
           }
         ]
@@ -246,17 +246,17 @@
   },
   "active": "031fdb55166757de",
   "lastOpenFiles": [
-    "04 Обработка данных.md",
-    "05 Практика.md",
-    "06 Практика.md",
-    "01 Практика.md",
+    "05 Визуализация данных.md",
     "06 Исследовательский анализ.md",
+    "06 Практика.md",
+    "05 Практика.md",
+    "04  Практика.md",
+    "04 Обработка данных.md",
+    "01 Практика.md",
     "files/real_estate_data_n_missing (1).csv",
     "03 Практика.md",
     "files/Pasted image 20260407114332.png",
-    "05 Визуализация данных.md",
     "09 Практика.md",
-    "04  Практика.md",
     "projects/courses/Python для анализа данных.md",
     "home/homepage.md",
     "files/Pasted image 20260406175059.png",
