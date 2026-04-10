@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 Исследовательский анализ.md",
+                "file": "05 Визуализация данных.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "06 Исследовательский анализ"
+              "title": "05 Визуализация данных"
             }
           },
           {
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "describe",
+                "query": "hue",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -210,13 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 Исследовательский анализ.md",
+                "file": "05 Визуализация данных.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 06 Исследовательский анализ"
+              "title": "Структура 05 Визуализация данных"
             }
           }
         ]
@@ -246,10 +247,10 @@
   },
   "active": "031fdb55166757de",
   "lastOpenFiles": [
-    "05 Визуализация данных.md",
     "04  Практика.md",
-    "06 Практика.md",
     "06 Исследовательский анализ.md",
+    "05 Визуализация данных.md",
+    "06 Практика.md",
     "04 Обработка данных.md",
     "05 Практика.md",
     "01 Практика.md",
