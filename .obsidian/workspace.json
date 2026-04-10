@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "row",
+                "query": "pie",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -245,14 +245,14 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "ca60a883e67a664d",
+  "active": "031fdb55166757de",
   "lastOpenFiles": [
-    "04  Практика.md",
-    "06 Исследовательский анализ.md",
+    "05 Практика.md",
     "05 Визуализация данных.md",
+    "06 Исследовательский анализ.md",
+    "04  Практика.md",
     "06 Практика.md",
     "04 Обработка данных.md",
-    "05 Практика.md",
     "01 Практика.md",
     "files/real_estate_data_n_missing (1).csv",
     "03 Практика.md",
