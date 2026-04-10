@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "05 Визуализация данных.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hue",
+                "query": "row",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -245,7 +245,7 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "031fdb55166757de",
+  "active": "ca60a883e67a664d",
   "lastOpenFiles": [
     "04  Практика.md",
     "06 Исследовательский анализ.md",
