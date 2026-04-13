@@ -49,8 +49,7 @@
               "title": "Словарь"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -310,12 +309,12 @@
   },
   "active": "6bcacfa1393b4687",
   "lastOpenFiles": [
+    "01 Управляющие конструкции Python. Циклы и условия.md",
     "Словарь.md",
     "Типы данных.md",
     "projects/courses/Python для анализа данных.md",
     "Заметки.md",
     "home/homepage.md",
-    "01 Управляющие конструкции Python. Циклы и условия.md",
     "01 Практика.md",
     "Типы данных в pandas.md",
     "Типы данных в Python.md",
