@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2d72d8675ce93fb6",
+        "id": "ce008037fadc18bc",
         "type": "tabs",
         "children": [
           {
-            "id": "c1f8e66e1a2b5e37",
+            "id": "ec1096b0c4d4a398",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -178,12 +178,12 @@
             "state": {
               "type": "BC-matrix",
               "state": {},
-              "icon": "BC-trail-icon",
-              "title": "Breadcrumbs Matrix"
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       },
       {
         "id": "3f608c19513a9dad",
@@ -226,11 +226,10 @@
       "homepage:Open homepage": false,
       "obsidian-spaced-repetition:Изучать карточки": false,
       "callout-manager:Insert Callout": false,
-      "obsidian-git:Open Git source control": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c1f8e66e1a2b5e37",
+  "active": "ec1096b0c4d4a398",
   "lastOpenFiles": [
     "projects/courses/Python для анализа данных.md",
     "01 Управляющие конструкции Python. Циклы и условия.md",
