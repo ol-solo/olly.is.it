@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home/homepage.md",
-                "mode": "preview",
+                "file": "projects/courses/Python для анализа данных.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "homepage"
+              "title": "Python для анализа данных"
+            }
+          },
+          {
+            "id": "013c38e5ea5beaa1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07 Статистический анализ.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "07 Статистический анализ"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,13 +221,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home/homepage.md",
+                "file": "07 Статистический анализ.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура homepage"
+              "title": "Структура 07 Статистический анализ"
             }
           }
         ]
@@ -240,14 +255,14 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "0e14170cef669f50",
+  "active": "013c38e5ea5beaa1",
   "lastOpenFiles": [
+    "projects/courses/Python для анализа данных.md",
+    "home/homepage.md",
     "01 Управляющие конструкции Python. Циклы и условия.md",
     "Словарь.md",
     "Типы данных.md",
-    "projects/courses/Python для анализа данных.md",
     "Заметки.md",
-    "home/homepage.md",
     "01 Практика.md",
     "Типы данных в pandas.md",
     "Типы данных в Python.md",
