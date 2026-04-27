@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "05 Визуализация данных.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "copy",
+                "query": "conca",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -269,10 +270,13 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "f37552e1059b29a6",
+  "active": "3c28807f68bd190c",
   "lastOpenFiles": [
+    "Библиотеки и модули.md",
     "04 Обработка данных.md",
+    "01 Управляющие конструкции Python. Циклы и условия.md",
     "06 Практика.md",
+    "05 Визуализация данных.md",
     "07 Практика.md",
     "07 Статистический анализ.md",
     "06 Исследовательский анализ.md",
@@ -280,7 +284,6 @@
     "03 Практика.md",
     "projects/courses/Python для анализа данных.md",
     "home/homepage.md",
-    "01 Управляющие конструкции Python. Циклы и условия.md",
     "Словарь.md",
     "Типы данных.md",
     "Заметки.md",
@@ -295,8 +298,6 @@
     "Untitled 1.md",
     "Untitled.md",
     "test.md",
-    "test-c.md",
-    "test-b.md",
     "files/real_estate_data_n_missing (1).csv",
     "files/Pasted image 20260407114332.png",
     "files/Pasted image 20260406175059.png",
