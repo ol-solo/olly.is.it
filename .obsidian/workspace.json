@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Практика.md",
+                "file": "Библиотеки и модули.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "01 Практика"
+              "title": "Библиотеки и модули"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "upper",
+                "query": "insert",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -236,13 +236,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Практика.md",
+                "file": "Библиотеки и модули.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 01 Практика"
+              "title": "Структура Библиотеки и модули"
             }
           }
         ]
@@ -272,22 +272,24 @@
   },
   "active": "3c28807f68bd190c",
   "lastOpenFiles": [
-    "05 Визуализация данных.md",
+    "templates/note_template.md",
     "Библиотеки и модули.md",
-    "04 Обработка данных.md",
+    "03 Работа с данными в Python, основы Pandas.md",
+    "02 Продвинутые концепции. Функции и модули.md",
     "01 Управляющие конструкции Python. Циклы и условия.md",
+    "01 Практика.md",
+    "05 Визуализация данных.md",
+    "04 Обработка данных.md",
     "06 Практика.md",
     "07 Практика.md",
     "07 Статистический анализ.md",
     "06 Исследовательский анализ.md",
-    "03 Работа с данными в Python, основы Pandas.md",
     "03 Практика.md",
     "projects/courses/Python для анализа данных.md",
     "home/homepage.md",
     "Словарь.md",
     "Типы данных.md",
     "Заметки.md",
-    "01 Практика.md",
     "Типы данных в pandas.md",
     "Типы данных в Python.md",
     "Условная конструкция.md",
@@ -296,8 +298,6 @@
     "2026-03-31.md",
     "Циклы с неизвестным количеством итераций.md",
     "Untitled 1.md",
-    "Untitled.md",
-    "test.md",
     "files/real_estate_data_n_missing (1).csv",
     "files/Pasted image 20260407114332.png",
     "files/Pasted image 20260406175059.png",
