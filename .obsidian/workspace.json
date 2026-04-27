@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 Визуализация данных.md",
+                "file": "01 Практика.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "05 Визуализация данных"
+              "title": "01 Практика"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "conca",
+                "query": "upper",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -236,13 +236,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 Визуализация данных.md",
+                "file": "01 Практика.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 05 Визуализация данных"
+              "title": "Структура 01 Практика"
             }
           }
         ]
@@ -272,11 +272,11 @@
   },
   "active": "3c28807f68bd190c",
   "lastOpenFiles": [
+    "05 Визуализация данных.md",
     "Библиотеки и модули.md",
     "04 Обработка данных.md",
     "01 Управляющие конструкции Python. Циклы и условия.md",
     "06 Практика.md",
-    "05 Визуализация данных.md",
     "07 Практика.md",
     "07 Статистический анализ.md",
     "06 Исследовательский анализ.md",
