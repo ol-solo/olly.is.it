@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 Исследовательский анализ.md",
+                "file": "05 Визуализация данных.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "06 Исследовательский анализ"
+              "title": "05 Визуализация данных"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pie",
+                "query": "copy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -235,13 +235,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 Исследовательский анализ.md",
+                "file": "05 Визуализация данных.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 06 Исследовательский анализ"
+              "title": "Структура 05 Визуализация данных"
             }
           }
         ]
@@ -269,12 +269,15 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "3c28807f68bd190c",
+  "active": "f37552e1059b29a6",
   "lastOpenFiles": [
+    "04 Обработка данных.md",
+    "06 Практика.md",
+    "07 Практика.md",
+    "07 Статистический анализ.md",
+    "06 Исследовательский анализ.md",
     "03 Работа с данными в Python, основы Pandas.md",
     "03 Практика.md",
-    "04 Обработка данных.md",
-    "07 Статистический анализ.md",
     "projects/courses/Python для анализа данных.md",
     "home/homepage.md",
     "01 Управляющие конструкции Python. Циклы и условия.md",
@@ -294,9 +297,6 @@
     "test.md",
     "test-c.md",
     "test-b.md",
-    "test-a.md",
-    "Знакомство с библиотеками.md",
-    "Базовая математика для анализа данных.md",
     "files/real_estate_data_n_missing (1).csv",
     "files/Pasted image 20260407114332.png",
     "files/Pasted image 20260406175059.png",
