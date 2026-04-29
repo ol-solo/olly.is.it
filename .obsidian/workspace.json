@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "insert",
+                "query": "isna",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -270,7 +270,7 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "3c28807f68bd190c",
+  "active": "ca60a883e67a664d",
   "lastOpenFiles": [
     "templates/note_template.md",
     "Библиотеки и модули.md",
