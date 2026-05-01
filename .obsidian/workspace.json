@@ -49,7 +49,8 @@
               "title": "03 Практика"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -255,13 +256,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 Статистический анализ.md",
+                "file": "07 Практика.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 07 Статистический анализ"
+              "title": "Структура 07 Практика"
             }
           }
         ]
@@ -289,10 +290,10 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "4ec13fb075497a6f",
+  "active": "0edaa3fb42ebd1d0",
   "lastOpenFiles": [
-    "07 Практика.md",
     "07 Статистический анализ.md",
+    "07 Практика.md",
     "03 Практика.md",
     "06 Практика.md",
     "projects/courses/Python для анализа данных.md",
