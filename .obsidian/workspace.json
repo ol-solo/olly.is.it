@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "1d4e6f199493165c",
+        "id": "f8505b63f1360a98",
         "type": "tabs",
         "children": [
           {
-            "id": "0e14170cef669f50",
+            "id": "d4af15989f5b3d4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/courses/Python для анализа данных.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Python для анализа данных"
-            }
-          },
-          {
-            "id": "013c38e5ea5beaa1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Работа с данными в Python, основы Pandas.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "03 Работа с данными в Python, основы Pandas"
-            }
-          },
-          {
-            "id": "3c28807f68bd190c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Библиотеки и модули.md",
+                "file": "home/homepage.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Библиотеки и модули"
+              "title": "homepage"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,12 +189,12 @@
             "state": {
               "type": "BC-matrix",
               "state": {},
-              "icon": "BC-trail-icon",
-              "title": "Breadcrumbs Matrix"
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       },
       {
         "id": "3f608c19513a9dad",
@@ -236,13 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Библиотеки и модули.md",
+                "file": "home/homepage.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Библиотеки и модули"
+              "title": "Структура homepage"
             }
           }
         ]
@@ -266,14 +237,13 @@
       "homepage:Open homepage": false,
       "obsidian-spaced-repetition:Изучать карточки": false,
       "callout-manager:Insert Callout": false,
-      "obsidian-git:Open Git source control": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ca60a883e67a664d",
+  "active": "d4af15989f5b3d4c",
   "lastOpenFiles": [
-    "templates/note_template.md",
     "Библиотеки и модули.md",
+    "templates/note_template.md",
     "03 Работа с данными в Python, основы Pandas.md",
     "02 Продвинутые концепции. Функции и модули.md",
     "01 Управляющие конструкции Python. Циклы и условия.md",
