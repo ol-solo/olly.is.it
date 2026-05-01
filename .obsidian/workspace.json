@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home/homepage.md",
-                "mode": "preview",
+                "file": "projects/courses/Python для анализа данных.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "homepage"
+              "title": "Python для анализа данных"
+            }
+          },
+          {
+            "id": "5e2593756b15824e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07 Статистический анализ.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "07 Статистический анализ"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,8 +89,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -187,14 +201,24 @@
             "id": "f4c0b93584f641ec",
             "type": "leaf",
             "state": {
-              "type": "BC-matrix",
+              "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "Плагин больше не активен"
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "91e52c92e5a2a3df",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {},
+              "icon": "BC-trail-icon",
+              "title": "Breadcrumbs Matrix"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       },
       {
         "id": "3f608c19513a9dad",
@@ -207,13 +231,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home/homepage.md",
+                "file": "07 Статистический анализ.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура homepage"
+              "title": "Структура 07 Статистический анализ"
             }
           }
         ]
@@ -237,11 +261,14 @@
       "homepage:Open homepage": false,
       "obsidian-spaced-repetition:Изучать карточки": false,
       "callout-manager:Insert Callout": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "d4af15989f5b3d4c",
+  "active": "5e2593756b15824e",
   "lastOpenFiles": [
+    "projects/courses/Python для анализа данных.md",
+    "home/homepage.md",
     "Библиотеки и модули.md",
     "templates/note_template.md",
     "03 Работа с данными в Python, основы Pandas.md",
@@ -255,8 +282,6 @@
     "07 Статистический анализ.md",
     "06 Исследовательский анализ.md",
     "03 Практика.md",
-    "projects/courses/Python для анализа данных.md",
-    "home/homepage.md",
     "Словарь.md",
     "Типы данных.md",
     "Заметки.md",
