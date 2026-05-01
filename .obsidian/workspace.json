@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f8505b63f1360a98",
+        "id": "944c5a2bd2b25bd5",
         "type": "tabs",
         "children": [
           {
-            "id": "d4af15989f5b3d4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "projects/courses/Python для анализа данных.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Python для анализа данных"
-            }
-          },
-          {
-            "id": "5e2593756b15824e",
+            "id": "4ec13fb075497a6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +21,7 @@
               "title": "07 Статистический анализ"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,6 +196,16 @@
             "id": "91e52c92e5a2a3df",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "e2d1391646d58cba",
+            "type": "leaf",
+            "state": {
               "type": "BC-matrix",
               "state": {},
               "icon": "BC-trail-icon",
@@ -218,7 +213,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       },
       {
         "id": "3f608c19513a9dad",
@@ -265,10 +260,11 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "5e2593756b15824e",
+  "active": "e2d1391646d58cba",
   "lastOpenFiles": [
     "projects/courses/Python для анализа данных.md",
     "home/homepage.md",
+    "07 Статистический анализ.md",
     "Библиотеки и модули.md",
     "templates/note_template.md",
     "03 Работа с данными в Python, основы Pandas.md",
@@ -279,7 +275,6 @@
     "04 Обработка данных.md",
     "06 Практика.md",
     "07 Практика.md",
-    "07 Статистический анализ.md",
     "06 Исследовательский анализ.md",
     "03 Практика.md",
     "Словарь.md",
