@@ -41,15 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 Практика.md",
+                "file": "03 Практика.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "06 Практика"
+              "title": "03 Практика"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "isna",
+                "query": "query",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +103,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -254,13 +256,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 Статистический анализ.md",
+                "file": "07 Практика.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 07 Статистический анализ"
+              "title": "Структура 07 Практика"
             }
           }
         ]
@@ -288,11 +290,12 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "4ec13fb075497a6f",
+  "active": "0edaa3fb42ebd1d0",
   "lastOpenFiles": [
+    "03 Практика.md",
+    "06 Практика.md",
     "07 Практика.md",
     "07 Статистический анализ.md",
-    "06 Практика.md",
     "projects/courses/Python для анализа данных.md",
     "home/homepage.md",
     "Библиотеки и модули.md",
@@ -304,7 +307,6 @@
     "05 Визуализация данных.md",
     "04 Обработка данных.md",
     "06 Исследовательский анализ.md",
-    "03 Практика.md",
     "Словарь.md",
     "Типы данных.md",
     "Заметки.md",
