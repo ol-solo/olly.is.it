@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 Практика.md",
+                "file": "03 Работа с данными в Python, основы Pandas.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "07 Практика"
+              "title": "03 Работа с данными в Python, основы Pandas"
             }
           },
           {
@@ -49,7 +49,8 @@
               "title": "03 Практика"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "query",
+                "query": "dt.d",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -255,13 +256,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 Статистический анализ.md",
+                "file": "03 Работа с данными в Python, основы Pandas.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 07 Статистический анализ"
+              "title": "Структура 03 Работа с данными в Python, основы Pandas"
             }
           }
         ]
@@ -289,11 +290,12 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "4ec13fb075497a6f",
+  "active": "0edaa3fb42ebd1d0",
   "lastOpenFiles": [
-    "07 Практика.md",
-    "07 Статистический анализ.md",
     "03 Практика.md",
+    "04  Практика.md",
+    "07 Статистический анализ.md",
+    "07 Практика.md",
     "06 Практика.md",
     "projects/courses/Python для анализа данных.md",
     "home/homepage.md",
@@ -316,7 +318,6 @@
     "Преобразование типов.md",
     "2026-03-31.md",
     "Циклы с неизвестным количеством итераций.md",
-    "Untitled 1.md",
     "files/real_estate_data_n_missing (1).csv",
     "files/Pasted image 20260407114332.png",
     "files/Pasted image 20260406175059.png",
