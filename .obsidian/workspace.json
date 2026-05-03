@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rec_t",
+                "query": "@date",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -290,7 +290,7 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "0edaa3fb42ebd1d0",
+  "active": "ca60a883e67a664d",
   "lastOpenFiles": [
     "07 Практика.md",
     "04  Практика.md",
