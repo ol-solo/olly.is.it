@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 Статистический анализ.md",
-                "mode": "preview",
+                "file": "07 Практика.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "07 Статистический анализ"
+              "title": "07 Практика"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "04  Практика"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -290,14 +289,16 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "ca60a883e67a664d",
+  "active": "4ec13fb075497a6f",
   "lastOpenFiles": [
     "07 Практика.md",
+    "07 Статистический анализ.md",
     "04  Практика.md",
+    "05 Визуализация данных.md",
+    "05 Практика.md",
     "03 Работа с данными в Python, основы Pandas.md",
     "00 Конференция о Python.md",
     "03 Практика.md",
-    "07 Статистический анализ.md",
     "06 Практика.md",
     "projects/courses/Python для анализа данных.md",
     "home/homepage.md",
@@ -306,7 +307,6 @@
     "02 Продвинутые концепции. Функции и модули.md",
     "01 Управляющие конструкции Python. Циклы и условия.md",
     "01 Практика.md",
-    "05 Визуализация данных.md",
     "04 Обработка данных.md",
     "06 Исследовательский анализ.md",
     "Словарь.md",
@@ -317,7 +317,6 @@
     "Условная конструкция.md",
     "Типы данных в.md",
     "Преобразование типов.md",
-    "2026-03-31.md",
     "files/real_estate_data_n_missing (1).csv",
     "files/Pasted image 20260407114332.png",
     "files/Pasted image 20260406175059.png",
