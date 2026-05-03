@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "07 Статистический анализ.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -290,7 +290,7 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "ca60a883e67a664d",
+  "active": "0edaa3fb42ebd1d0",
   "lastOpenFiles": [
     "07 Практика.md",
     "04  Практика.md",
