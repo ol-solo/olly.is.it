@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 Практика.md",
+                "file": "07 Статистический анализ.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "07 Практика"
+              "title": "07 Статистический анализ"
             }
           },
           {
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ".groupby",
+                "query": "rec_t",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -256,13 +256,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 Практика.md",
+                "file": "07 Статистический анализ.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 07 Практика"
+              "title": "Структура 07 Статистический анализ"
             }
           }
         ]
@@ -290,13 +290,13 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "0edaa3fb42ebd1d0",
+  "active": "ca60a883e67a664d",
   "lastOpenFiles": [
+    "07 Практика.md",
     "04  Практика.md",
     "03 Работа с данными в Python, основы Pandas.md",
     "00 Конференция о Python.md",
     "03 Практика.md",
-    "07 Практика.md",
     "07 Статистический анализ.md",
     "06 Практика.md",
     "projects/courses/Python для анализа данных.md",
