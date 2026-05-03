@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "07 Статистический анализ.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "@date",
+                "query": "loc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -291,14 +291,14 @@
   },
   "active": "4ec13fb075497a6f",
   "lastOpenFiles": [
-    "07 Практика.md",
+    "03 Практика.md",
     "07 Статистический анализ.md",
+    "07 Практика.md",
     "04  Практика.md",
     "05 Визуализация данных.md",
     "05 Практика.md",
     "03 Работа с данными в Python, основы Pandas.md",
     "00 Конференция о Python.md",
-    "03 Практика.md",
     "06 Практика.md",
     "projects/courses/Python для анализа данных.md",
     "home/homepage.md",
