@@ -22,17 +22,45 @@
             }
           },
           {
+            "id": "9ad5e35d84e7c9ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/courses/Python для анализа данных.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Python для анализа данных"
+            }
+          },
+          {
             "id": "0edaa3fb42ebd1d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 Практика.md",
+                "file": "09 Работа с реальными данными.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "07 Практика"
+              "title": "09 Работа с реальными данными"
+            }
+          },
+          {
+            "id": "e23fddaa5ae20839",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Продвинутый анализ данных.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Продвинутый анализ данных"
             }
           },
           {
@@ -103,8 +131,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -256,13 +283,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 Практика.md",
+                "file": "projects/courses/Python для анализа данных.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 07 Практика"
+              "title": "Структура Python для анализа данных"
             }
           }
         ]
@@ -290,19 +317,24 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "0edaa3fb42ebd1d0",
+  "active": "9ad5e35d84e7c9ee",
   "lastOpenFiles": [
+    "00 Конференция о Python.md",
+    "projects/courses/Python для анализа данных.md",
+    "home/homepage.md",
     "07 Статистический анализ.md",
+    "Продвинутый анализ данных.md",
+    "Без названия 1.md",
+    "Без названия.md",
+    "09 Работа с реальными данными.md",
+    "08 Основы машинного обучения.md",
     "07 Практика.md",
     "03 Практика.md",
     "04  Практика.md",
     "05 Визуализация данных.md",
     "05 Практика.md",
     "03 Работа с данными в Python, основы Pandas.md",
-    "00 Конференция о Python.md",
     "06 Практика.md",
-    "projects/courses/Python для анализа данных.md",
-    "home/homepage.md",
     "Библиотеки и модули.md",
     "templates/note_template.md",
     "02 Продвинутые концепции. Функции и модули.md",
@@ -313,11 +345,6 @@
     "Словарь.md",
     "Типы данных.md",
     "Заметки.md",
-    "Типы данных в pandas.md",
-    "Типы данных в Python.md",
-    "Условная конструкция.md",
-    "Типы данных в.md",
-    "Преобразование типов.md",
     "files/real_estate_data_n_missing (1).csv",
     "files/Pasted image 20260407114332.png",
     "files/Pasted image 20260406175059.png",
