@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "07 Статистический анализ.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "loc",
+                "query": "lifetime",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
