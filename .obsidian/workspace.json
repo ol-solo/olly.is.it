@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lifetime",
+                "query": "последовательность дат",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -289,7 +289,7 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "4ec13fb075497a6f",
+  "active": "ca60a883e67a664d",
   "lastOpenFiles": [
     "07 Практика.md",
     "07 Статистический анализ.md",
