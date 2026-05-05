@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -256,13 +256,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Продвинутый анализ данных - Практика.md",
+                "file": "Продвинутый анализ данных.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Продвинутый анализ данных - Практика"
+              "title": "Структура Продвинутый анализ данных"
             }
           }
         ]
@@ -291,10 +291,10 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "9ad5e35d84e7c9ee",
+  "active": "e23fddaa5ae20839",
   "lastOpenFiles": [
-    "Продвинутый анализ данных.md",
     "Продвинутый анализ данных - Практика.md",
+    "Продвинутый анализ данных.md",
     "07 Практика.md",
     "07 Статистический анализ.md",
     "08 Практика.md",
