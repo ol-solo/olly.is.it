@@ -215,7 +215,8 @@ $\text{SessionsPerUser}=\frac{\text{Общее число сессий}}{\text{�
 
 Формула:
 $\text{Revenue}=\text{Цена за юнит}\cdot \text{Объём продаж}$  
-или в агрегате
+
+или сумме по позициям:
 $\text{Revenue}=\sum\limits_{i}{\text{Price}_i\cdot \text{Quantity}_i}$
 
 ---
@@ -322,11 +323,11 @@ $\text{Profit\_per\_Unit}=\text{Unit\_Margin}-\text{Fixed\_Cost\_per\_Unit}$
 Такой объём продаж, при котором выручка ровно покрывает все переменные и постоянные расходы, а прибыль равна нулю.
 
 Формула в юнитах:  
-$\text{BEP\_units}=\frac{\text{Fixed\_Costs}}{\text{Unit\_Margin}}$
+$\text{BEPUnits}=\frac{\text{FixedCosts}}{\text{UnitMargin}}$
 
 где Unit\_Margin = Price\_per\_Unit − Unit\_Cost.
 
-Формула в деньгах (выручка): 
-$\text{BEP\_revenue}=\frac{\text{Fixed\_Costs}}{\text{Contribution\_Margin\_Ratio}}$
+Формула в в выручке: 
+$\text{BEPRevenue}=\frac{\text{FixedCosts}}{\text{ContributionMarginRatio}}$
 
-где Contribution\_Margin\_Ratio = Unit\_Margin / Price\_per\_Unit.
+где $\text{ContributionMarginRatio}=\frac{\text{UnitMargin}}{\text{PricePerUnit}}$
