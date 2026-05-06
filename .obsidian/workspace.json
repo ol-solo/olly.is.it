@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "944c5a2bd2b25bd5",
+        "id": "2fe68ccbe815508e",
         "type": "tabs",
         "children": [
           {
-            "id": "0edaa3fb42ebd1d0",
+            "id": "9d4ce85fe3d59dd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,6 +19,20 @@
               },
               "icon": "lucide-file",
               "title": "09 Работа с реальными данными"
+            }
+          },
+          {
+            "id": "d8df26631d851267",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "09 Практика.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "09 Практика"
             }
           }
         ]
@@ -206,6 +220,16 @@
             "id": "e2d1391646d58cba",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "6c26f5bcd217ee65",
+            "type": "leaf",
+            "state": {
               "type": "BC-matrix",
               "state": {},
               "icon": "BC-trail-icon",
@@ -213,7 +237,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       },
       {
         "id": "3f608c19513a9dad",
@@ -239,8 +263,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5,
-    "collapsed": true
+    "width": 343.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -261,20 +284,20 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "0edaa3fb42ebd1d0",
+  "active": "9d4ce85fe3d59dd0",
   "lastOpenFiles": [
+    "09 Практика.md",
+    "projects/courses/Python для анализа данных.md",
+    "home/homepage.md",
+    "09 Работа с реальными данными.md",
     "07 Практика.md",
     "01 Управляющие конструкции Python. Циклы и условия.md",
     "Продвинутый анализ данных - Практика.md",
     "Продвинутый анализ данных.md",
     "07 Статистический анализ.md",
     "08 Практика.md",
-    "09 Практика.md",
-    "09 Работа с реальными данными.md",
-    "projects/courses/Python для анализа данных.md",
     "04  Практика.md",
     "00 Конференция о Python.md",
-    "home/homepage.md",
     "Без названия 1.md",
     "Без названия.md",
     "08 Основы машинного обучения.md",
