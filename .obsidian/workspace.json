@@ -35,8 +35,7 @@
               "title": "Flashcard"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flashcard.md",
+                "file": "09 Работа с реальными данными.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Flashcard"
+              "title": "Структура 09 Работа с реальными данными"
             }
           },
           {
@@ -192,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flashcard.md",
+                "file": "09 Работа с реальными данными.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Flashcard"
+              "title": "Структура 09 Работа с реальными данными"
             }
           }
         ]
@@ -226,11 +225,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eeb3347f45e137d5",
+  "active": "66e9713f7e405e39",
   "lastOpenFiles": [
-    "Без названия 3.md",
     "Flashcard.md",
     "09 Работа с реальными данными.md",
+    "Без названия 3.md",
     "projects/courses/Python для анализа данных.md",
     "home/homepage.md",
     "09 Практика.md",
