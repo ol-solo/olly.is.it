@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Без названия 2.md",
+                "file": "Flashcard.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Без названия 2"
+              "title": "Flashcard"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6df46271483b8271",
@@ -158,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Без названия 2.md",
+                "file": "Flashcard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Без названия 2"
+              "title": "Структура Flashcard"
             }
           },
           {
@@ -191,13 +192,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Без названия 2.md",
+                "file": "Flashcard.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Без названия 2"
+              "title": "Структура Flashcard"
             }
           }
         ]
@@ -228,7 +229,7 @@
   "active": "eeb3347f45e137d5",
   "lastOpenFiles": [
     "Без названия 3.md",
-    "Без названия 2.md",
+    "Flashcard.md",
     "09 Работа с реальными данными.md",
     "projects/courses/Python для анализа данных.md",
     "home/homepage.md",
