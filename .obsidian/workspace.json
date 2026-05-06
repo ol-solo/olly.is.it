@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/courses/Python для анализа данных.md",
+                "file": "09 Работа с реальными данными.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Python для анализа данных"
+              "title": "09 Работа с реальными данными"
             }
           },
           {
@@ -228,10 +228,10 @@
   },
   "active": "eeb3347f45e137d5",
   "lastOpenFiles": [
-    "Без названия 2.md",
-    "projects/courses/Python для анализа данных.md",
-    "home/homepage.md",
     "09 Работа с реальными данными.md",
+    "projects/courses/Python для анализа данных.md",
+    "Без названия 2.md",
+    "home/homepage.md",
     "09 Практика.md",
     "07 Практика.md",
     "01 Управляющие конструкции Python. Циклы и условия.md",
