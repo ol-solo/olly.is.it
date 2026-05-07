@@ -325,7 +325,7 @@ $\text{Profit\_per\_Unit}=\text{Unit\_Margin}-\text{Fixed\_Cost\_per\_Unit}$
 Формула в юнитах:  
 $\text{BEPUnits}=\frac{\text{FixedCosts}}{\text{UnitMargin}}$
 
-где Unit\_Margin = Price\_per\_Unit − Unit\_Cost.
+где $\text{UnitMargin}=\frac{\text{PriceperUnit}}{\text{UnitCost}}$
 
 Формула в в выручке: 
 $\text{BEPRevenue}=\frac{\text{FixedCosts}}{\text{ContributionMarginRatio}}$
