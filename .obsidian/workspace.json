@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "Статистика"
             }
+          },
+          {
+            "id": "da3d7933ad85479a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Без названия 2.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Без названия 2"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -186,13 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Статистика.md",
+                "file": "Без названия 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Статистика"
+              "title": "Структура Без названия 2"
             }
           },
           {
@@ -219,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Статистика.md",
+                "file": "Без названия 2.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Статистика"
+              "title": "Структура Без названия 2"
             }
           }
         ]
@@ -253,8 +267,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f4a2401fb9d8f2cf",
+  "active": "da3d7933ad85479a",
   "lastOpenFiles": [
+    "Без названия 2.md",
     "Статистика.md",
     "Flashcard.md",
     "07 Статистический анализ.md",
@@ -280,7 +295,6 @@
     "06 Практика.md",
     "Библиотеки и модули.md",
     "templates/note_template.md",
-    "02 Продвинутые концепции. Функции и модули.md",
     "files/real_estate_data_n_missing (1).csv",
     "files/Pasted image 20260407114332.png",
     "files/Pasted image 20260406175059.png",
