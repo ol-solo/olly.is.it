@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Без названия 2.md",
+                "file": "Статистика.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Без названия 2"
+              "title": "Статистика"
             }
           }
         ],
@@ -187,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Без названия 2.md",
+                "file": "Статистика.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Без названия 2"
+              "title": "Структура Статистика"
             }
           },
           {
@@ -220,13 +220,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Без названия 2.md",
+                "file": "Статистика.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Без названия 2"
+              "title": "Структура Статистика"
             }
           }
         ]
@@ -256,7 +256,7 @@
   },
   "active": "f4a2401fb9d8f2cf",
   "lastOpenFiles": [
-    "Без названия 2.md",
+    "Статистика.md",
     "Flashcard.md",
     "07 Статистический анализ.md",
     "projects/courses/Python для анализа данных.md",
