@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "eeb3347f45e137d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Flashcard.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Flashcard"
-            }
-          },
-          {
             "id": "d39ec72f58c7ce33",
             "type": "leaf",
             "state": {
@@ -48,37 +34,8 @@
               "icon": "lucide-file",
               "title": "07 Статистический анализ"
             }
-          },
-          {
-            "id": "f4a2401fb9d8f2cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Статистика.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Статистика"
-            }
-          },
-          {
-            "id": "da3d7933ad85479a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Без названия 2.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Без названия 2"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Без названия 2.md",
+                "file": "09 Работа с реальными данными.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Без названия 2"
+              "title": "Структура 09 Работа с реальными данными"
             }
           },
           {
@@ -233,13 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Без названия 2.md",
+                "file": "09 Работа с реальными данными.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Без названия 2"
+              "title": "Структура 09 Работа с реальными данными"
             }
           }
         ]
@@ -267,12 +224,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da3d7933ad85479a",
+  "active": "66e9713f7e405e39",
   "lastOpenFiles": [
-    "Без названия 2.md",
-    "Статистика.md",
     "Flashcard.md",
     "07 Статистический анализ.md",
+    "Статистика - база.md",
+    "Статистика - гипотезы.md",
     "projects/courses/Python для анализа данных.md",
     "Продвинутый анализ данных.md",
     "home/homepage.md",
