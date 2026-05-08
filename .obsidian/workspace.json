@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2fe68ccbe815508e",
+        "id": "1e471d68047c7cf6",
         "type": "tabs",
         "children": [
           {
-            "id": "66e9713f7e405e39",
+            "id": "40744b9eb0e2c017",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09 Работа с реальными данными.md",
+                "file": "projects/courses/Python для анализа данных.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "09 Работа с реальными данными"
-            }
-          },
-          {
-            "id": "d39ec72f58c7ce33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07 Статистический анализ.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "07 Статистический анализ"
+              "title": "Python для анализа данных"
             }
           }
         ]
@@ -190,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09 Работа с реальными данными.md",
+                "file": "projects/courses/Python для анализа данных.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 09 Работа с реальными данными"
+              "title": "Структура Python для анализа данных"
             }
           }
         ]
@@ -223,16 +209,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "66e9713f7e405e39",
+  "active": "40744b9eb0e2c017",
   "lastOpenFiles": [
+    "home/homepage.md",
+    "09 Работа с реальными данными.md",
     "Flashcard.md",
     "07 Статистический анализ.md",
     "Статистика - база.md",
     "Статистика - гипотезы.md",
     "projects/courses/Python для анализа данных.md",
     "Продвинутый анализ данных.md",
-    "home/homepage.md",
-    "09 Работа с реальными данными.md",
     "Без названия 3.md",
     "09 Практика.md",
     "07 Практика.md",
