@@ -35,8 +35,7 @@
               "title": "09 Практика"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09 Практика.md",
+                "file": "09 Работа с реальными данными.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 09 Практика"
+              "title": "Структура 09 Работа с реальными данными"
             }
           }
         ]
@@ -226,10 +225,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "074ce1d12418a72d",
+  "active": "40744b9eb0e2c017",
   "lastOpenFiles": [
-    "09 Работа с реальными данными.md",
     "09 Практика.md",
+    "09 Работа с реальными данными.md",
     "07 Практика.md",
     "projects/courses/Python для анализа данных.md",
     "home/homepage.md",
