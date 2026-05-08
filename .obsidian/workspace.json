@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "09 Работа с реальными данными.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -228,11 +228,11 @@
   },
   "active": "074ce1d12418a72d",
   "lastOpenFiles": [
+    "09 Работа с реальными данными.md",
+    "09 Практика.md",
     "07 Практика.md",
     "projects/courses/Python для анализа данных.md",
     "home/homepage.md",
-    "09 Практика.md",
-    "09 Работа с реальными данными.md",
     "Flashcard.md",
     "07 Статистический анализ.md",
     "Статистика - база.md",
