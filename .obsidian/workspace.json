@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1e471d68047c7cf6",
+        "id": "df94aeaf3e775550",
         "type": "tabs",
         "children": [
           {
-            "id": "40744b9eb0e2c017",
+            "id": "5f783b349cf4f3a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09 Работа с реальными данными.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "09 Работа с реальными данными"
-            }
-          },
-          {
-            "id": "074ce1d12418a72d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "09 Практика.md",
+                "file": "03 Практика.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "09 Практика"
+              "title": "03 Практика"
             }
           }
         ]
@@ -67,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "round",
+                "query": "reindex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,12 +74,12 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6df46271483b8271",
@@ -191,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09 Работа с реальными данными.md",
+                "file": "03 Практика.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 09 Работа с реальными данными"
+              "title": "Структура 03 Практика"
             }
           }
         ]
@@ -225,13 +211,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40744b9eb0e2c017",
+  "active": "ca60a883e67a664d",
   "lastOpenFiles": [
-    "09 Практика.md",
     "09 Работа с реальными данными.md",
-    "07 Практика.md",
     "projects/courses/Python для анализа данных.md",
     "home/homepage.md",
+    "09 Практика.md",
+    "Welcome.md",
+    "07 Практика.md",
     "Flashcard.md",
     "07 Статистический анализ.md",
     "Статистика - база.md",
@@ -252,7 +239,6 @@
     "03 Работа с данными в Python, основы Pandas.md",
     "06 Практика.md",
     "Библиотеки и модули.md",
-    "templates/note_template.md",
     "files/real_estate_data_n_missing (1).csv",
     "files/Pasted image 20260407114332.png",
     "files/Pasted image 20260406175059.png",
