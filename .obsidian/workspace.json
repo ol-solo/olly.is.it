@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "06 Исследовательский анализ"
             }
+          },
+          {
+            "id": "b5621077a1fad2db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "09 Работа с реальными данными.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "09 Работа с реальными данными"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6df46271483b8271",
@@ -177,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 Исследовательский анализ.md",
+                "file": "09 Работа с реальными данными.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 06 Исследовательский анализ"
+              "title": "Структура 09 Работа с реальными данными"
             }
           }
         ]
@@ -211,18 +227,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f783b349cf4f3a4",
+  "active": "b5621077a1fad2db",
   "lastOpenFiles": [
+    "projects/courses/Python для анализа данных.md",
+    "home/homepage.md",
+    "06 Исследовательский анализ.md",
     "05 Визуализация данных.md",
     "Продвинутый анализ данных.md",
-    "06 Исследовательский анализ.md",
     "04  Практика.md",
     "03 Практика.md",
     "00 Конференция о Python.md",
     "03 Работа с данными в Python, основы Pandas.md",
     "09 Работа с реальными данными.md",
-    "projects/courses/Python для анализа данных.md",
-    "home/homepage.md",
     "09 Практика.md",
     "Welcome.md",
     "07 Практика.md",
