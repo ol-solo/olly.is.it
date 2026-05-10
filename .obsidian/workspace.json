@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04  Практика.md",
+                "file": "06 Исследовательский анализ.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "04  Практика"
+              "title": "06 Исследовательский анализ"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dt.month",
+                "query": "pd.qcut",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04  Практика.md",
+                "file": "06 Исследовательский анализ.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 04  Практика"
+              "title": "Структура 06 Исследовательский анализ"
             }
           }
         ]
@@ -213,9 +213,11 @@
   },
   "active": "5f783b349cf4f3a4",
   "lastOpenFiles": [
+    "05 Визуализация данных.md",
+    "06 Исследовательский анализ.md",
+    "04  Практика.md",
     "03 Практика.md",
     "00 Конференция о Python.md",
-    "04  Практика.md",
     "03 Работа с данными в Python, основы Pandas.md",
     "09 Работа с реальными данными.md",
     "projects/courses/Python для анализа данных.md",
@@ -235,10 +237,8 @@
     "Без названия 1.md",
     "Без названия.md",
     "08 Основы машинного обучения.md",
-    "05 Визуализация данных.md",
     "05 Практика.md",
     "06 Практика.md",
-    "Библиотеки и модули.md",
     "files/real_estate_data_n_missing (1).csv",
     "files/Pasted image 20260407114332.png",
     "files/Pasted image 20260406175059.png",
