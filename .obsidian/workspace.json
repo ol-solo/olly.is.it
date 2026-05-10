@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09 Работа с реальными данными.md",
+                "file": "04  Практика.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "09 Работа с реальными данными"
+              "title": "04  Практика"
             }
           },
           {
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "corr",
+                "query": "dupl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +117,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -219,13 +220,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Исследование интернет-магазина «Подарочек».md",
+                "file": "04  Практика.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Исследование интернет-магазина «Подарочек»"
+              "title": "Структура 04  Практика"
             }
           }
         ]
@@ -252,18 +253,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "59333eed1f57ea97",
+  "active": "b5621077a1fad2db",
   "lastOpenFiles": [
-    "projects/courses/Python для анализа данных.md",
-    "Исследование интернет-магазина «Подарочек».md",
-    "home/homepage.md",
+    "03 Практика.md",
     "09 Работа с реальными данными.md",
+    "Исследование интернет-магазина «Подарочек».md",
+    "projects/courses/Python для анализа данных.md",
+    "home/homepage.md",
     "06 Исследовательский анализ.md",
     "04  Практика.md",
     "05 Практика.md",
     "05 Визуализация данных.md",
     "Продвинутый анализ данных.md",
-    "03 Практика.md",
     "00 Конференция о Python.md",
     "03 Работа с данными в Python, основы Pandas.md",
     "09 Практика.md",
