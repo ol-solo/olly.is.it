@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,13 +206,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 Исследовательский анализ.md",
+                "file": "09 Работа с реальными данными.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 06 Исследовательский анализ"
+              "title": "Структура 09 Работа с реальными данными"
             }
           }
         ]
@@ -239,10 +239,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87b9da0b6074cbf9",
+  "active": "b5621077a1fad2db",
   "lastOpenFiles": [
-    "04  Практика.md",
     "06 Исследовательский анализ.md",
+    "04  Практика.md",
     "05 Практика.md",
     "home/homepage.md",
     "09 Работа с реальными данными.md",
