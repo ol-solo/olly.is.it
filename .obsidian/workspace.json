@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Полезные инструкции для учёбы"
             }
+          },
+          {
+            "id": "956f984b9a7383d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Итоговое задание 1 модуля.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "03 Итоговое задание 1 модуля"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Полезные инструкции для учёбы.md",
+                "file": "03 Итоговое задание 1 модуля.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Полезные инструкции для учёбы"
+              "title": "Структура 03 Итоговое задание 1 модуля"
             }
           }
         ]
@@ -224,12 +238,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9333857b32ea5923",
+  "active": "956f984b9a7383d0",
   "lastOpenFiles": [
     "projects/courses/Python для анализа данных.md",
-    "Полезные инструкции для учёбы.md",
+    "03 Итоговое задание 1 модуля.md",
     "home/homepage.md",
     "01 Управляющие конструкции Python. Циклы и условия.md",
+    "Полезные инструкции для учёбы.md",
     "06 Исследовательский анализ.md",
     "Исследование интернет-магазина «Подарочек».md",
     "09 Работа с реальными данными.md",
@@ -251,7 +266,6 @@
     "Без названия 3.md",
     "08 Практика.md",
     "Без названия 1.md",
-    "Без названия.md",
     "files/real_estate_data_n_missing (1).csv",
     "files/Pasted image 20260407114332.png",
     "files/Pasted image 20260406175059.png",
