@@ -4,81 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "df94aeaf3e775550",
+        "id": "3a54b72cf9534102",
         "type": "tabs",
         "children": [
           {
-            "id": "dc4870ddb7ddf55f",
+            "id": "6d808b9f5800dcc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Управляющие конструкции Python. Циклы и условия.md",
+                "file": "projects/courses/Python для анализа данных.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "01 Управляющие конструкции Python. Циклы и условия"
-            }
-          },
-          {
-            "id": "9333857b32ea5923",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04  Практика.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "04  Практика"
-            }
-          },
-          {
-            "id": "956f984b9a7383d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Материалы по продвинутому анализу данных.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Материалы по продвинутому анализу данных"
-            }
-          },
-          {
-            "id": "6a8bae170b62cd76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08 Практика.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "08 Практика"
-            }
-          },
-          {
-            "id": "ed36f0b41d1026d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08 Основы машинного обучения.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "08 Основы машинного обучения"
+              "title": "Python для анализа данных"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08 Практика.md",
+                "file": "projects/courses/Python для анализа данных.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 08 Практика"
+              "title": "Структура Python для анализа данных"
             }
           }
         ]
@@ -269,22 +212,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a8bae170b62cd76",
+  "active": "6d808b9f5800dcc2",
   "lastOpenFiles": [
+    "home/homepage.md",
+    "01 Управляющие конструкции Python. Циклы и условия.md",
+    "04  Практика.md",
+    "Материалы по продвинутому анализу данных.md",
     "08 Основы машинного обучения.md",
     "08 Практика.md",
     "files/Pasted image 20260512165948.png",
     "files/Pasted image 20260512165906.png",
     "files/Pasted image 20260512165900.png",
-    "Материалы по продвинутому анализу данных.md",
     "projects/courses/Python для анализа данных.md",
-    "home/homepage.md",
     "Материалы по основам анализа данных.md",
-    "04  Практика.md",
     "Полезные инструкции для учёбы.md",
     "Материалы по основам Python.md",
     "03 Итоговое задание 1 модуля.md",
-    "01 Управляющие конструкции Python. Циклы и условия.md",
     "06 Исследовательский анализ.md",
     "Исследование интернет-магазина «Подарочек».md",
     "09 Работа с реальными данными.md",
