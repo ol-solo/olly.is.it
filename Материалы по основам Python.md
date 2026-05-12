@@ -1489,8 +1489,323 @@ print("10%: ", disc_10_price_list)
 
 Используя эти готовые функции, доработайте свою функцию `apply_discount()` так, чтобы она не применяла скидку к ценам, у которых не указана валюта.
 
+```python
+# Преобразуем цену к числу
+def parse_price(price):
+    if '$' in price:
+        currency_code = 'USD'
+        price = price.replace('$', '')
+    else:
+        currency_code = 'UNKNOWN'
+    num_price = float(price.replace(',', '.'))
+    return num_price, currency_code
+# Преобразуем число обратно к цене
+def build_price(price, currency_code):
+    currency_dict = {
+        "USD": "$",
+        "UNKNOWN": ""
+    }
+    return currency_dict[currency_code] + str(price).replace('.', ',')
+# Исправьте код этой функции
+def apply_discount(price, discount_value=20):
+    num_price, currency_code = parse_price(price)
+    
+    if currency_code != 'UNKNOWN':
+        new_price = round(num_price * (1 - discount_value / 100), 1)
+        return build_price(new_price, currency_code)
+    else:
+        return price
+price_list = ['$12,99', '$54', '$36', '345', '$0,5', '$9,99']
+new_price_list = []
+for price in price_list:
+    new_price_list.append(apply_discount(price))
+print(new_price_list)
+```
 
+## Задача 5
+
+Мы узнали, что вашей функцией `apply_discount` пользуются почти все аналитики в компании! Но оказалось, что некоторым удобно передавать размер скидки не в виде числа, а в виде строки. Например, скидку в 20% можно передать числом `20`, а можно строкой `20%`. Почему так — неизвестно, но аналитики просят доработать функцию, чтобы можно было передавать и строку, и число.
+
+Доработайте функцию `apply_discount`, чтобы аргумент `discount_value` мог принимать как число, так и строку с процентом. Если аргумент `discount_value` отображен в виде строки и содержит символ `%`, то его необходимо привести к числу. Если строка не содержит символ `%`, то функция не применяет скидку и возвращает изначальное значение.
+
+- `apply_dicount('$10', 20) = '$0,8'`
+- `apply_dicount('$10', '20%') = '$0,8'`
+- `apply_dicount('$10', '20') = '$10'`
+
+```python
+# Преобразуем цену к числу
+def parse_price(price):
+    if '$' in price:
+        currency_code = 'USD'
+        price = price.replace('$', '')
+    else:
+        currency_code = 'UNKNOWN'
+    num_price = float(price.replace(',', '.'))
+    return num_price, currency_code
+# Преобразуем число обратно к цене
+def build_price(price, currency_code):
+    currency_dict = {
+        "USD": "$",
+        "UNKNOWN": ""
+    }
+    return currency_dict[currency_code] + str(price).replace('.', ',')
+def apply_discount(price, discount_value=20):
+    num_price, currency_code = parse_price(price)
+    
+    if type(discount_value) is str:
+        if '%' in discount_value:
+            discount_value = float(discount_value.replace('%', ''))
+        else:
+            return price
+      
+    if currency_code != "UNKNOWN":
+        new_price = round(float(num_price) * (1 - discount_value/100), 1)
+        str_new_price = build_price(new_price, currency_code)
+    else: 
+        return price
+  
+    return str_new_price
+price_list = ['$12,99', '$54', '$36', '345', '$0,5', '$9,99']
+new_price_list = []               
+for price in price_list:
+    new_price_list.append(apply_discount(price, discount_value='25%'))
+print(new_price_list)
+```
+
+## Задача 6
+
+Используя готовую функцию `parse_price`, создайте список `num_price_list`, который состоит из цен, но уже в виде чисел.
+
+С помощью библиотеки `numpy` найдите стоимость самого дорогого товара и среднюю стоимость. Сохраните результаты в переменных `max_price` и `avg_price` соответственно.
+
+```python
+import numpy as np
+# Преобразуем цену к числу
+def parse_price(price):
+    if '$' in price:
+        currency_code = 'USD'
+        price = price.replace('$', '')
+    else:
+        currency_code = 'UNKNOWN'
+    num_price = float(price.replace(',', '.'))
+    return num_price, currency_code
+price_list = ['$12,99', '$54', '$36', '$0,5', '$9,99']
+num_price_list = []               
+for price in price_list:
+    num_price, _ = parse_price(price)
+    num_price_list.append(num_price)
+max_price = np.max(num_price_list)
+avg_price = np.mean(num_price_list)
+print(max_price, avg_price)
+```
 
 ## 3.3 спринт (дополнительная практика)
 
-](https://practicum.yandex.ru/learn/python-for-analytics/courses/dafc45b4-04f8-42c7-9985-4d1fad60af0f/sprints/759597/topics/b87ddcec-11b4-4839-9898-40ff6de4f7d8/lessons/bf70617e-c60b-4be2-a99f-ffc34cbfcf7d/)
+В этом уроке разберёмся в том, как рассчитывается **среднее взвешенное.**
+
+Порядок действий такой:
+
+1. Берутся отдельные веса, это могут быть любые неотрицательные значения.
+2. Веса нормируются: каждое значение делится на общую сумму всех весов таким образом, что они в сумме составляют единицу.
+3. Отдельные значения, от которых нужно подсчитать среднее, умножаются на свои веса — сумма полученных произведений и есть их взвешенное среднее.
+
+А теперь пройдем несколько заданий, чтобы закрепить полученные знания!
+
+## Задача 1 — Заполнение датафрейма
+
+Представьте, что вы работаете аналитиком в компании, которая занимается разработкой и эксплуатацией системы управления умными домами. В этой системе установлены разнообразные сенсоры, которые собирают данные о таких параметрах, как температура, влажность и освещенность, передавая их на центральный сервер для дальнейшего анализа.
+
+Перед вами стоит задача собрать в одну таблицу информацию о типах сенсоров, частоте их измерений и потребляемой мощности. На основе этих данных потребуется рассчитать ежедневное энергопотребление каждого сенсора, что позволит выявить наиболее энергоемкие устройства и найти способы оптимизации их работы.
+
+У вас есть следующие данные:
+
+1. **Список типов сенсоров**.
+2. **Словарь с частотой измерений сенсоров** (в герцах).
+3. **Строка с названиями сенсоров**, разделенными запятыми.
+4. **Словарь с мощностью каждого сенсора** (в ваттах).
+
+Создайте DataFrame, где строки будут соответствовать характеристикам сенсоров, а столбцы представлены в следующем порядке: `['Name', 'Type', 'Frequency_Hz', 'Power_W', 'Daily_Energy_kWh']`.
+
+```python
+import pandas as pd
+# Список типов сенсоров
+sensor_types = {
+    'Boogle Best T5001SF': 'Температура', 
+    'ZCHTSENSOR-1PK': 'Температура', 
+    'PS-DCHS150': 'Давление',
+    'QVARA-HUM3': 'Влажность', 
+    'GDCSWQ01LS': 'Освещенность',      
+    'Yapo Smart T320': 'Освещенность',          
+    'AUAQS-S01': 'Уровень CO2'                 
+}
+# Словарь с частотой измерений сенсоров (в Гц)
+sensor_frequency = {
+    'Boogle Best T5001SF': 0.0167,  # Температура, 1 раз в минуту
+    'ZCHTSENSOR-1PK': 0.1,          # Температура, 1 раз в 10 секунд
+    'PS-DCHS150': 1,                # Давление, 1 раз в секунду
+    'QVARA-HUM3': 0.1,              # Влажность, 1 раз в 10 секунд
+    'GDCSWQ01LS': 5,                # Освещенность, 5 раз в секунду
+    'Yapo Smart T320': 2,           # Освещенность, 2 раза в секунду
+    'AUAQS-S01': 0.05               # Уровень CO2, 1 раз в 20 секунд
+}
+# Словарь с мощностью потребления сенсоров (в Вт)
+sensor_power = {
+    'Boogle Best T5001SF': 0.001,   # Температура, 1 мВт
+    'ZCHTSENSOR-1PK': 0.002,        # Температура, 2 мВт
+    'PS-DCHS150': 0.004,            # Давление, 4 мВт
+    'QVARA-HUM3': 0.003,            # Влажность, 3 мВт
+    'GDCSWQ01LS': 0.002,            # Освещенность, 2 мВт
+    'Yapo Smart T320': 0.0015,      # Освещенность, 1.5 мВт
+    'AUAQS-S01': 0.5                # Уровень CO2, 500 мВт
+}
+# Создание DataFrame
+data = []
+for sensor_name in sensor_types.keys():
+    sensor_type = sensor_types[sensor_name]
+    frequency = sensor_frequency[sensor_name]
+    power = sensor_power[sensor_name]
+    
+    daily_energy = (power * 24) / 1000
+    
+    data.append([sensor_name, sensor_type, frequency, power, daily_energy])
+df = pd.DataFrame(data, columns=['Name', 'Type', 'Frequency_Hz', 'Power_W', 'Daily_Energy_kWh'])
+# Вывод первых строк DataFrame
+print(df)
+```
+
+## Задача 2 — Преобразование CamelCase в snake_case
+
+Вам необходимо написать функцию, которая преобразует наименования столбцов DataFrame из формата CamelCase в формат snake_case без использования регулярных выражений.
+
+- формат `CamelCase`
+    - `TotalRevenue`, `SalesData`
+- формат `snake_case`
+    - `total_revenue`, `sales_data`
+
+```python
+import pandas as pd
+# DataFrame со столбцами в CamelCase
+df = pd.DataFrame({
+    'CustomerName': ['Alice', 'Bob', 'Charlie'],
+    'TotalRevenue': [1000, 1500, 2000],
+    'OrderDate': ['2024-01-01', '2024-01-02', '2024-01-03']
+})
+# Функция для преобразования CamelCase в snake_case
+def camel_to_snake(name):
+    result = []
+    for i, char in enumerate(name):
+        if char.isupper():
+            if i > 0:
+                result.append('_')
+            result.append(char.lower())
+        else:
+            result.append(char)
+    return ''.join(result)
+# Преобразование названий столбцов
+df.columns = [camel_to_snake(col) for col in df.columns]
+# Вывод первых строк DataFrame
+print(df)
+```
+
+## Задача 3 — Анализ продаж автомобилей
+
+Вы работаете аналитиком данных в крупной автомобильной компании. Ваш руководитель поставил задачу проанализировать продажи автомобилей, чтобы улучшить стратегию ценообразования и определить, какие модели автомобилей популярны в разных регионах. Вам нужно выполнить ряд сложных аналитических задач, используя данные о продажах.
+
+Первая задача по анализу продаж автомобилей: сформируйте функцию `filter_by_year_and_mileage`, которая отбирает автомобили, выпущенные после определенного года и с пробегом меньше указанного значения.
+
+Рассчитайте среднюю цену таких автомобилей с учётом скидок для определенного региона. Округлите результат до двух знаков после запятой.
+
+```python
+import pandas as pd
+import numpy as np
+# Формирование DataFrame
+np.random.seed(42)
+df = pd.DataFrame({
+    'Car': np.random.choice(['Toyota Camry', 'Honda Accord', 'Ford Focus', 'Audi A4', 'BMW 3 Series', 'Mercedes C-Class', 'Tesla Model 3'], size=1000),
+    'Year': np.random.choice(range(2000, 2024), size=1000),
+    'Price': np.random.randint(15000, 60000, size=1000),
+    'Region': np.random.choice(['Москва', 'Санкт-Петербург', 'Новосибирск', 'Екатеринбург', 'Казань', 'Нижний Новгород', 'Самара'], size=1000),
+    'Discount': np.random.choice([0, 5, 10, 15], size=1000),  # скидка в процентах
+    'Mileage': np.random.randint(5000, 200000, size=1000)  # пробег автомобиля в км
+})
+def filter_by_year_and_mileage(df, year, region, max_mileage):
+    # Фильтрация по году, пробегу и региону
+    filtered_df = df.loc[(df['Year'] > year) & (df['Mileage'] < max_mileage) & (df['Region'] == region)]
+    
+    
+    # Расчёт средней цены с учётом скидок
+    prices_with_discount = filtered_df['Price'] * (1 - filtered_df['Discount'] / 100)
+    average_price = round(np.mean(prices_with_discount), 2)
+    
+    return average_price
+# Пример использования функции
+year = 2015
+max_mileage = 50000
+region = 'Нижний Новгород'
+average_price = filter_by_year_and_mileage(df, year, region, max_mileage)
+print(f"Средняя цена автомобилей, выпущенных после {year} года с пробегом меньше {max_mileage} км в регионе {region}: {average_price}")
+```
+
+## Задача 4 — Анализ продаж автомобилей
+
+После анализа средней цены автомобилей стало ясно, что на их цену также влияет и пробег машины.
+
+Установлено, что разные марки изнашиваются по разному. Для каждой марки дан коэффициент альфа (α), который необходимо использовать для расчёта веса по формуле Вес=e−α×ПробегВес=e−α×Пробег.
+
+В реальности точное значение коэффициента для учета пробега при оценке стоимости автомобиля будет варьироваться в зависимости и от других факторов.
+
+Вторая задача по анализу продаж автомобилей: нужно доработать функцию, чтобы она рассчитывала взвешенное среднее, придавая меньший вес автомобилям с большим пробегом.
+
+```python
+import pandas as pd
+import numpy as np
+# Формирование DataFrame
+np.random.seed(42)
+df = pd.DataFrame({
+    'Car': np.random.choice(['Toyota Camry', 'Honda Accord', 'Ford Focus', 'Audi A4', 'BMW 3 Series', 'Mercedes C-Class', 'Tesla Model 3'], size=1000),
+    'Year': np.random.choice(range(2000, 2024), size=1000),
+    'Price': np.random.randint(15000, 60000, size=1000),
+    'Region': np.random.choice(['Москва', 'Санкт-Петербург', 'Новосибирск', 'Екатеринбург', 'Казань', 'Нижний Новгород', 'Самара'], size=1000),
+    'Discount': np.random.choice([0, 5, 10, 15], size=1000),  # скидка в процентах
+    'Mileage': np.random.randint(5000, 200000, size=1000)  # пробег автомобиля в км
+})
+# Коэффициенты альфа для каждой марки
+alpha_values = {
+    'Toyota Camry': 0.00002,
+    'Honda Accord': 0.00003,
+    'Ford Focus': 0.00004,
+    'Audi A4': 0.00005,
+    'BMW 3 Series': 0.00006,
+    'Mercedes C-Class': 0.00007,
+    'Tesla Model 3': 0.00001
+}
+# Добавление коэффициента альфа в DataFrame
+df['Alpha'] = df['Car'].map(alpha_values)
+def filter_by_year_and_mileage(df, year, region, max_mileage):
+    # Фильтрация по году, пробегу и региону
+    filtered_df = df.loc[(df['Year'] > year) & (df['Mileage'] < max_mileage) & (df['Region'] == region)]
+    
+    # Расчет веса с использованием экспоненциальной функции и индивидуального коэффициента альфа
+    weights = np.exp(-filtered_df['Alpha'] * filtered_df['Mileage'])
+    
+    # Расчет взвешенной средней цены с учетом скидок
+    prices_with_discount = filtered_df['Price'] * (1 - filtered_df['Discount'] / 100)
+    
+    # Расчет взвешенной средней цены с учетом пробега
+    weighted_average_price = round(np.average(prices_with_discount, weights=weights), 2)
+    
+    return weighted_average_price
+# Пример использования функции
+year = 2015
+max_mileage = 50000
+region = 'Нижний Новгород'
+average_price = filter_by_year_and_mileage(df, year, region, max_mileage)
+print(f"Взвешенная средняя цена автомобилей, выпущенных после {year} года с пробегом меньше {max_mileage} км в регионе {region}: {average_price}")
+```
+
+## Задача 5 — Обновление статуса книг в издательстве
+
+Продажи книг в жанре «ужасов» значительно снизились. Чтобы оживить интерес покупателей, издательство решило провести маркетинговую кампанию, направленную на популяризацию классических ужастиков. В рамках этой кампании важно выделить классические произведения таких авторов, как Говард Лавкрафт, Эдгар Аллан По и Брэм Стокер. Эти книги будут помечены специальным статусом «Classic Horror» (классический ужастик) для привлечения внимания читателей к шедеврам прошлого века.
+
+Вам необходимо создать функцию, которая обновит статус книг в издательстве на «Classic Horror» для произведений, написанных указанными авторами и выпущенных до 1950 года. Эта функция должна принимать DataFrame с информацией о книгах и на основании сложного условия обновлять значения в целевом столбце.
+
