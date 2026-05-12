@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -221,13 +221,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/courses/Python для анализа данных.md",
+                "file": "Материалы по продвинутому анализу данных.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Python для анализа данных"
+              "title": "Структура Материалы по продвинутому анализу данных"
             }
           }
         ]
@@ -255,11 +255,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed36f0b41d1026d7",
+  "active": "956f984b9a7383d0",
   "lastOpenFiles": [
+    "projects/courses/Python для анализа данных.md",
     "Материалы по продвинутому анализу данных.md",
     "Материалы по основам анализа данных.md",
-    "projects/courses/Python для анализа данных.md",
     "04  Практика.md",
     "Полезные инструкции для учёбы.md",
     "Материалы по основам Python.md",
