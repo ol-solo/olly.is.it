@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Полезные инструкции для учёбы.md",
+                "file": "04  Практика.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Полезные инструкции для учёбы"
+              "title": "04  Практика"
             }
           },
           {
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "IQR",
+                "query": "pivot",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,12 +117,12 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6df46271483b8271",
@@ -220,13 +220,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Материалы по основам анализа данных.md",
+                "file": "04  Практика.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Материалы по основам анализа данных"
+              "title": "Структура 04  Практика"
             }
           }
         ]
@@ -254,15 +254,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "956f984b9a7383d0",
+  "active": "9333857b32ea5923",
   "lastOpenFiles": [
-    "projects/courses/Python для анализа данных.md",
+    "Полезные инструкции для учёбы.md",
     "Материалы по основам анализа данных.md",
+    "projects/courses/Python для анализа данных.md",
     "Материалы по основам Python.md",
     "03 Итоговое задание 1 модуля.md",
     "home/homepage.md",
     "01 Управляющие конструкции Python. Циклы и условия.md",
-    "Полезные инструкции для учёбы.md",
     "06 Исследовательский анализ.md",
     "Исследование интернет-магазина «Подарочек».md",
     "09 Работа с реальными данными.md",
