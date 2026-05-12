@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -235,13 +235,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08 Основы машинного обучения.md",
+                "file": "08 Практика.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 08 Основы машинного обучения"
+              "title": "Структура 08 Практика"
             }
           }
         ]
@@ -269,10 +269,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed36f0b41d1026d7",
+  "active": "6a8bae170b62cd76",
   "lastOpenFiles": [
-    "08 Практика.md",
     "08 Основы машинного обучения.md",
+    "08 Практика.md",
     "files/Pasted image 20260512165948.png",
     "files/Pasted image 20260512165906.png",
     "files/Pasted image 20260512165900.png",
