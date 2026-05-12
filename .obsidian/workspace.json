@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6df46271483b8271",
@@ -220,13 +221,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04  Практика.md",
+                "file": "Материалы по основам анализа данных.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 04  Практика"
+              "title": "Структура Материалы по основам анализа данных"
             }
           }
         ]
@@ -254,11 +255,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9333857b32ea5923",
+  "active": "956f984b9a7383d0",
   "lastOpenFiles": [
+    "projects/courses/Python для анализа данных.md",
+    "04  Практика.md",
     "Полезные инструкции для учёбы.md",
     "Материалы по основам анализа данных.md",
-    "projects/courses/Python для анализа данных.md",
     "Материалы по основам Python.md",
     "03 Итоговое задание 1 модуля.md",
     "home/homepage.md",
@@ -266,7 +268,6 @@
     "06 Исследовательский анализ.md",
     "Исследование интернет-магазина «Подарочек».md",
     "09 Работа с реальными данными.md",
-    "04  Практика.md",
     "Продвинутый анализ данных.md",
     "Продвинутый анализ данных - Практика.md",
     "03 Практика.md",
