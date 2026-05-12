@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04  Практика.md",
-                "mode": "preview",
+                "file": "09 Работа с реальными данными.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "04  Практика"
+              "title": "09 Работа с реальными данными"
             }
           },
           {
@@ -117,8 +117,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -220,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04  Практика.md",
+                "file": "09 Работа с реальными данными.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 04  Практика"
+              "title": "Структура 09 Работа с реальными данными"
             }
           }
         ]
@@ -255,9 +254,9 @@
   },
   "active": "b5621077a1fad2db",
   "lastOpenFiles": [
+    "04  Практика.md",
     "Продвинутый анализ данных.md",
     "Продвинутый анализ данных - Практика.md",
-    "04  Практика.md",
     "03 Практика.md",
     "09 Работа с реальными данными.md",
     "Исследование интернет-магазина «Подарочек».md",
