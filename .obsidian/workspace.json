@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "06 Исследовательский анализ"
             }
+          },
+          {
+            "id": "dc4870ddb7ddf55f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Управляющие конструкции Python. Циклы и условия.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "01 Управляющие конструкции Python. Циклы и условия"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -219,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09 Работа с реальными данными.md",
+                "file": "01 Управляющие конструкции Python. Циклы и условия.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 09 Работа с реальными данными"
+              "title": "Структура 01 Управляющие конструкции Python. Циклы и условия"
             }
           }
         ]
@@ -252,17 +266,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b5621077a1fad2db",
+  "active": "dc4870ddb7ddf55f",
   "lastOpenFiles": [
+    "projects/courses/Python для анализа данных.md",
+    "home/homepage.md",
+    "06 Исследовательский анализ.md",
+    "Исследование интернет-магазина «Подарочек».md",
+    "09 Работа с реальными данными.md",
     "04  Практика.md",
     "Продвинутый анализ данных.md",
     "Продвинутый анализ данных - Практика.md",
     "03 Практика.md",
-    "09 Работа с реальными данными.md",
-    "Исследование интернет-магазина «Подарочек».md",
-    "projects/courses/Python для анализа данных.md",
-    "home/homepage.md",
-    "06 Исследовательский анализ.md",
     "05 Практика.md",
     "05 Визуализация данных.md",
     "00 Конференция о Python.md",
