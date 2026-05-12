@@ -55,16 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/courses/Python для анализа данных.md",
+                "file": "08 Основы машинного обучения.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Python для анализа данных"
+              "title": "08 Основы машинного обучения"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -221,13 +221,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Материалы по продвинутому анализу данных.md",
+                "file": "08 Основы машинного обучения.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Материалы по продвинутому анализу данных"
+              "title": "Структура 08 Основы машинного обучения"
             }
           }
         ]
@@ -255,7 +255,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "956f984b9a7383d0",
+  "active": "ed36f0b41d1026d7",
   "lastOpenFiles": [
     "projects/courses/Python для анализа данных.md",
     "Материалы по продвинутому анализу данных.md",
