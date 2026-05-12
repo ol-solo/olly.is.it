@@ -50,6 +50,20 @@
             }
           },
           {
+            "id": "6a8bae170b62cd76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 Практика.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "08 Практика"
+            }
+          },
+          {
             "id": "ed36f0b41d1026d7",
             "type": "leaf",
             "state": {
@@ -221,13 +235,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08 Основы машинного обучения.md",
+                "file": "08 Практика.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 08 Основы машинного обучения"
+              "title": "Структура 08 Практика"
             }
           }
         ]
@@ -255,16 +269,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed36f0b41d1026d7",
+  "active": "6a8bae170b62cd76",
   "lastOpenFiles": [
     "projects/courses/Python для анализа данных.md",
+    "home/homepage.md",
     "Материалы по продвинутому анализу данных.md",
     "Материалы по основам анализа данных.md",
+    "08 Основы машинного обучения.md",
     "04  Практика.md",
     "Полезные инструкции для учёбы.md",
     "Материалы по основам Python.md",
     "03 Итоговое задание 1 модуля.md",
-    "home/homepage.md",
     "01 Управляющие конструкции Python. Циклы и условия.md",
     "06 Исследовательский анализ.md",
     "Исследование интернет-магазина «Подарочек».md",
@@ -282,7 +297,6 @@
     "Flashcard.md",
     "07 Статистический анализ.md",
     "Статистика - база.md",
-    "Статистика - гипотезы.md",
     "files/real_estate_data_n_missing (1).csv",
     "files/Pasted image 20260407114332.png",
     "files/Pasted image 20260406175059.png",
