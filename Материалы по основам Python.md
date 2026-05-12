@@ -1809,3 +1809,27 @@ print(f"Взвешенная средняя цена автомобилей, в�
 
 Вам необходимо создать функцию, которая обновит статус книг в издательстве на «Classic Horror» для произведений, написанных указанными авторами и выпущенных до 1950 года. Эта функция должна принимать DataFrame с информацией о книгах и на основании сложного условия обновлять значения в целевом столбце.
 
+```python
+import pandas as pd
+# Формирование DataFrame
+data = {
+    'Title': ['The Call of Cthulhu', 'The Tell-Tale Heart', 'It', 'Dracula', 'Carrie', 'The Raven', 'Eureka', 
+              'Pride and Prejudice', 'War and Peace', 'Moby Dick', 'The Great Gatsby'],
+    'Author': ['H.P. Lovecraft', 'Edgar Allan Poe', 'Stephen King', 'Bram Stoker', 'Stephen King', 'Edgar Allan Poe', 
+               'Edgar Allan Poe', 'Jane Austen', 'Leo Tolstoy', 'Herman Melville', 'F. Scott Fitzgerald'],
+    'Year': [1928, 1843, 1986, 1897, 1974, 1845, 1848, 1813, 1869, 1851, 1925],
+    'Genre': ['Horror', 'Horror', 'Horror', 'Horror', 'Horror', 'Poetry', 'Philosophy', 
+              'Romance', 'Historical', 'Adventure', 'Classic'],
+    'Status': ['Available', 'Available', 'Available', 'Available', 'Available', 'Available', 'Available', 
+               'Available', 'Available', 'Available', 'Available']
+}
+df = pd.DataFrame(data)
+def update_book_status(df, authors, year, new_status):
+    df.loc[(df['Author'].isin(authors)) & (df['Year'] < year) & (df['Genre'] == 'Horror'), 'Status'] = new_status
+    return df
+# Список авторов классических хорроров
+classic_horror_authors = ['H.P. Lovecraft', 'Edgar Allan Poe', 'Bram Stoker']
+# Применение функции
+df_updated = update_book_status(df, classic_horror_authors, 1950, 'Classic Horror')
+print(df_updated)
+```

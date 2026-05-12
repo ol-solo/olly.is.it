@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Материалы по основам Python.md",
+                "file": "Материалы по основам анализа данных.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Материалы по основам Python"
+              "title": "Материалы по основам анализа данных"
             }
           },
           {
@@ -220,13 +220,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Материалы по основам Python.md",
+                "file": "Материалы по основам анализа данных.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Материалы по основам Python"
+              "title": "Структура Материалы по основам анализа данных"
             }
           }
         ]
@@ -257,6 +257,7 @@
   "active": "956f984b9a7383d0",
   "lastOpenFiles": [
     "projects/courses/Python для анализа данных.md",
+    "Материалы по основам анализа данных.md",
     "Материалы по основам Python.md",
     "03 Итоговое задание 1 модуля.md",
     "home/homepage.md",
@@ -281,7 +282,6 @@
     "Статистика - база.md",
     "Статистика - гипотезы.md",
     "Без названия 3.md",
-    "08 Практика.md",
     "files/real_estate_data_n_missing (1).csv",
     "files/Pasted image 20260407114332.png",
     "files/Pasted image 20260406175059.png",
