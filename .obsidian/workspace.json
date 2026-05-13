@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 Основы машинного обучения.md",
+                "file": "01 Практика.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "08 Основы машинного обучения"
+              "title": "01 Практика"
             }
           }
         ]
@@ -176,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08 Основы машинного обучения.md",
+                "file": "01 Практика.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 08 Основы машинного обучения"
+              "title": "Структура 01 Практика"
             }
           }
         ]
@@ -209,57 +209,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "74c69a389d909f23",
-    "type": "floating",
-    "children": [
-      {
-        "id": "89d4a91ec9f5bac8",
-        "type": "window",
-        "children": [
-          {
-            "id": "e2162cf11843db3a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2560a61f5a364650",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "08 Основы машинного обучения.md",
-                    "mode": "preview",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "08 Основы машинного обучения"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 850,
-        "y": -1080,
-        "width": 686,
-        "height": 1032,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "6d808b9f5800dcc2",
   "lastOpenFiles": [
+    "08 Практика.md",
+    "08 Основы машинного обучения.md",
     "Итоговое задание курса.md",
     "03 Итоговое задание 1 модуля.md",
     "Итоговое задание 2 модуля.md",
     "projects/courses/Python для анализа данных.md",
     "home/homepage.md",
-    "08 Основы машинного обучения.md",
     "01 Управляющие конструкции Python. Циклы и условия.md",
     "04  Практика.md",
     "Материалы по продвинутому анализу данных.md",
-    "08 Практика.md",
     "files/Pasted image 20260512165948.png",
     "files/Pasted image 20260512165906.png",
     "files/Pasted image 20260512165900.png",
