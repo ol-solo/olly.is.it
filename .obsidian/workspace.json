@@ -239,16 +239,16 @@
           }
         ],
         "direction": "vertical",
-        "x": 576,
+        "x": 850,
         "y": -1080,
-        "width": 960,
+        "width": 686,
         "height": 1032,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "2560a61f5a364650",
+  "active": "6d808b9f5800dcc2",
   "lastOpenFiles": [
     "Итоговое задание курса.md",
     "03 Итоговое задание 1 модуля.md",
