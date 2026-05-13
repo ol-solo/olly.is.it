@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Практика.md",
+                "file": "04  Практика.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "01 Практика"
+              "title": "04  Практика"
             }
           }
         ]
@@ -176,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Практика.md",
+                "file": "04  Практика.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 01 Практика"
+              "title": "Структура 04  Практика"
             }
           }
         ]
@@ -211,6 +211,10 @@
   },
   "active": "6d808b9f5800dcc2",
   "lastOpenFiles": [
+    "03 Практика.md",
+    "02 Практика.md",
+    "01 Управляющие конструкции Python. Циклы и условия.md",
+    "01 Практика.md",
     "08 Практика.md",
     "08 Основы машинного обучения.md",
     "Итоговое задание курса.md",
@@ -218,7 +222,6 @@
     "Итоговое задание 2 модуля.md",
     "projects/courses/Python для анализа данных.md",
     "home/homepage.md",
-    "01 Управляющие конструкции Python. Циклы и условия.md",
     "04  Практика.md",
     "Материалы по продвинутому анализу данных.md",
     "files/Pasted image 20260512165948.png",
@@ -231,15 +234,12 @@
     "09 Работа с реальными данными.md",
     "Продвинутый анализ данных.md",
     "Продвинутый анализ данных - Практика.md",
-    "03 Практика.md",
     "05 Практика.md",
     "05 Визуализация данных.md",
     "00 Конференция о Python.md",
     "03 Работа с данными в Python, основы Pandas.md",
     "09 Практика.md",
     "Welcome.md",
-    "07 Практика.md",
-    "Flashcard.md",
     "files/real_estate_data_n_missing (1).csv",
     "files/Pasted image 20260407114332.png",
     "files/Pasted image 20260406175059.png",
