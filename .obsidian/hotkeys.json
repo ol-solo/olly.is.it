@@ -77,5 +77,14 @@
       ],
       "key": "M"
     }
+  ],
+  "callout-toggles:remove-callout-from-selected-lines": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "R"
+    }
   ]
 }
