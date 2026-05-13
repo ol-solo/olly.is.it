@@ -86,5 +86,23 @@
       ],
       "key": "R"
     }
+  ],
+  "callout-toggles:wrap-lines-in-question-callout": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "Q"
+    }
+  ],
+  "callout-toggles:wrap-lines-in-note-callout": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "N"
+    }
   ]
 }
