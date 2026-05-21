@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3a54b72cf9534102",
+        "id": "9b9967ad993a2abd",
         "type": "tabs",
         "children": [
           {
-            "id": "6d808b9f5800dcc2",
+            "id": "624310f706fd2205",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09 Практика.md",
-                "mode": "source",
+                "file": "home/homepage.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "09 Практика"
-            }
-          },
-          {
-            "id": "a6fb256eea17f76e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Управляющие конструкции Python. Циклы и условия.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "01 Управляющие конструкции Python. Циклы и условия"
+              "title": "homepage"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Управляющие конструкции Python. Циклы и условия.md",
+                "file": "home/homepage.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 01 Управляющие конструкции Python. Циклы и условия"
+              "title": "Структура homepage"
             }
           }
         ]
@@ -224,8 +209,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6fb256eea17f76e",
+  "active": "624310f706fd2205",
   "lastOpenFiles": [
+    "01 Управляющие конструкции Python. Циклы и условия.md",
     "projects/courses/Python для анализа данных.md",
     "home/homepage.md",
     "09 Практика.md",
@@ -240,7 +226,6 @@
     "02 Практика.md",
     "01 Практика.md",
     "05 Визуализация данных.md",
-    "01 Управляющие конструкции Python. Циклы и условия.md",
     "Итоговое задание курса.md",
     "03 Итоговое задание 1 модуля.md",
     "Итоговое задание 2 модуля.md",
