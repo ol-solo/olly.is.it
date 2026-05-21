@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home/homepage.md",
-                "mode": "preview",
+                "file": "flashcards/Без названия.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "homepage"
+              "title": "Без названия"
             }
           }
         ]
@@ -176,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home/homepage.md",
+                "file": "flashcards/Без названия.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура homepage"
+              "title": "Структура Без названия"
             }
           }
         ]
@@ -211,9 +211,11 @@
   },
   "active": "624310f706fd2205",
   "lastOpenFiles": [
+    "home/homepage.md",
+    "flashcards/Без названия.md",
+    "flashcards",
     "01 Управляющие конструкции Python. Циклы и условия.md",
     "projects/courses/Python для анализа данных.md",
-    "home/homepage.md",
     "09 Практика.md",
     "09 Работа с реальными данными.md",
     "08 Практика.md",
@@ -239,7 +241,6 @@
     "06 Исследовательский анализ.md",
     "Продвинутый анализ данных.md",
     "Продвинутый анализ данных - Практика.md",
-    "00 Конференция о Python.md",
     "files/real_estate_data_n_missing (1).csv",
     "files/Pasted image 20260407114332.png",
     "files/Pasted image 20260406175059.png",
@@ -255,7 +256,6 @@
     "files/Pasted image 20260319111618.png",
     "files/Pasted image 20260319111610.png",
     "files/Pasted image 20260319111603.png",
-    "files/Pasted image 20260318150406.png",
-    "script/embed_current_block.js"
+    "files/Pasted image 20260318150406.png"
   ]
 }
