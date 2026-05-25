@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Работа с данными в Python, основы Pandas.md",
-                "mode": "source",
+                "file": "projects/courses/Python для анализа данных.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "03 Работа с данными в Python, основы Pandas"
+              "title": "Python для анализа данных"
             }
           },
           {
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pivot",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,13 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Работа с данными в Python, основы Pandas.md",
+                "file": "projects/courses/Python для анализа данных.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 03 Работа с данными в Python, основы Pandas"
+              "title": "Структура Python для анализа данных"
             }
           }
         ]
@@ -225,6 +225,12 @@
   },
   "active": "73646cfd172c29fd",
   "lastOpenFiles": [
+    "00 Конференция о Python.md",
+    "flashcards/MOC - Spaced Repetition.md",
+    "Проба.md",
+    "templates/zettel_note.md",
+    "templates/article_teamplate.md",
+    "03 Работа с данными в Python, основы Pandas.md",
     "flashcards/Data types.md",
     "flashcards/Без названия.md",
     "flashcards/Variables.md",
@@ -246,15 +252,9 @@
     "02 Практика.md",
     "01 Практика.md",
     "05 Визуализация данных.md",
-    "Итоговое задание курса.md",
-    "03 Итоговое задание 1 модуля.md",
-    "Итоговое задание 2 модуля.md",
-    "Материалы по продвинутому анализу данных.md",
     "files/Pasted image 20260512165948.png",
     "files/Pasted image 20260512165906.png",
     "files/Pasted image 20260512165900.png",
-    "Материалы по основам анализа данных.md",
-    "Полезные инструкции для учёбы.md",
     "files/real_estate_data_n_missing (1).csv",
     "files/Pasted image 20260407114332.png",
     "files/Pasted image 20260406175059.png",
