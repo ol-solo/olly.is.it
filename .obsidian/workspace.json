@@ -35,8 +35,7 @@
               "title": "03 Работа с данными в Python, основы Pandas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Работа с данными в Python, основы Pandas.md",
+                "file": "flashcards/SR - 03 Работа с данными в Python, основы Pandas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для 03 Работа с данными в Python, основы Pandas"
+              "title": "Обратные ссылки для SR - 03 Работа с данными в Python, основы Pandas"
             }
           },
           {
@@ -190,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Работа с данными в Python, основы Pandas.md",
+                "file": "flashcards/SR - 03 Работа с данными в Python, основы Pandas.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 03 Работа с данными в Python, основы Pandas"
+              "title": "Структура SR - 03 Работа с данными в Python, основы Pandas"
             }
           }
         ]
@@ -223,11 +222,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d1fd4697e4cfd198",
+  "active": "73646cfd172c29fd",
   "lastOpenFiles": [
-    "flashcards/SR - 01 Управляющие конструкции Python. Циклы и условия.md",
-    "flashcards/SR - 03 Работа с данными в Python, основы Pandas.md",
     "03 Работа с данными в Python, основы Pandas.md",
+    "flashcards/SR - 03 Работа с данными в Python, основы Pandas.md",
+    "flashcards/SR - 01 Управляющие конструкции Python. Циклы и условия.md",
     "01 Управляющие конструкции Python. Циклы и условия.md",
     "templates/zettel_note.md",
     "flashcards/SR - 00 Конференция о Python.md",
