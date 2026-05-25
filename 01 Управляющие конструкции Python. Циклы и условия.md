@@ -5,6 +5,8 @@ aliases:
 tags: []
 parent:
   - - Python для анализа данных
+sr:
+moc:
 next: "[[01 Практика]]"
 prev: "[[00 Конференция о Python]]"
 ---
