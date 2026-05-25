@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "flashcards/Без названия.md",
+                "file": "templates/note_template.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "note_template"
             }
           },
           {
@@ -205,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "flashcards/Без названия.md",
+                "file": "templates/note_template.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Без названия"
+              "title": "Структура note_template"
             }
           }
         ]
@@ -238,21 +238,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f37552e1059b29a6",
+  "active": "fc120d95717f9741",
   "lastOpenFiles": [
+    "templates/zettel_note.md",
     "templates/note_template.md",
+    "00 Конференция о Python.md",
+    "Untitled.md",
+    "flashcards/Без названия.md",
+    "flashcards/Conditionals.md",
+    "flashcards/MOC - Spaced Repetition.md",
     "03 Работа с данными в Python, основы Pandas.md",
     "projects/courses/Python для анализа данных.md",
-    "00 Конференция о Python.md",
-    "flashcards/MOC - Spaced Repetition.md",
     "Проба.md",
-    "templates/zettel_note.md",
     "templates/article_teamplate.md",
     "flashcards/Data types.md",
-    "flashcards/Без названия.md",
     "flashcards/Variables.md",
     "flashcards/Functions.md",
-    "flashcards/Conditionals.md",
     "home/homepage.md",
     "flashcards",
     "01 Управляющие конструкции Python. Циклы и условия.md",
@@ -266,7 +267,6 @@
     "04  Практика.md",
     "03 Практика.md",
     "02 Практика.md",
-    "01 Практика.md",
     "files/Pasted image 20260512165948.png",
     "files/Pasted image 20260512165906.png",
     "files/Pasted image 20260512165900.png",

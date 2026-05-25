@@ -1,109 +1,111 @@
 <%*
-const title = tp.file.title
-const slug = title
-  .toLowerCase()
-  .replace(/[^а-яёa-z0-9\s-]/gi, '')
-  .replace(/\s+/g, '-')
-  .replace(/-+/g, '-')
-_%>
----
-type: zettel
-status: seed
-created: <% tp.date.now("YYYY-MM-DD") %>
-updated: <% tp.date.now("YYYY-MM-DD") %>
-sr-overview: true
-tags:
-  - zettel
-  - sr/source
-  - concept/<% slug %>
-  - flashcards/review/new-notes
-aliases: []
----
+let title = tp.file.title;
+if (title.startsWith("Untitled")) {
+title = await tp.system.prompt("Title");
+}
+if (!title) throw new Error("Title is required");
 
-# <% title %>
+const files = app.vault.getMarkdownFiles();
+const projectFiles = files.filter(f => {
+const cache = app.metadataCache.getFileCache(f);
+const fm = cache && cache.frontmatter ? cache.frontmatter : {};
+return ["course", "book", "movie", "article"].includes(fm.type);
+});
 
-## Тезис
+const names = projectFiles.map(f => f.basename);
+const paths = projectFiles.map(f => f.path);
+const chosenPath = await tp.system.suggester(names, paths, false, "Выбери родителя");
+if (!chosenPath) throw new Error("Parent was not selected");
 
-Одним абзацем сформулируй идею заметки своими словами.
+const parentFile = tp.file.find_tfile(chosenPath);
+if (!parentFile) throw new Error("Parent file not found");
+const parentName = parentFile.basename;
 
-## Контекст
+const srNote = await tp.system.prompt("Имя заметки с карточками", SR - ${title});
+if (!srNote) throw new Error("SR note name is required");
 
-- Родительский MOC: [[MOC - Тема]]
-- Более общий concept note: [[Широкая концепция]]
-- Соседние заметки: [[Связанная заметка 1]], [[Связанная заметка 2]]
-- Практический кейс: [[Проект или пример]]
+const mocNote = await tp.system.prompt("Имя MOC", MOC - ${parentName});
+if (!mocNote) throw new Error("MOC note name is required");
 
-## Связи
+const flashcardsFolder = "flashcards";
+const currentFile = tp.config.target_file;
+if (currentFile && currentFile.basename !== title) {
+await tp.file.rename(title);
+}
 
-- Откуда пришла идея: [[Источник или литература]]
-- С чем конфликтует: [[Похожая, но иная концепция]]
-- Что стоит создать дальше: [[Следующая atomic note]]
+if (!app.vault.getAbstractFileByPath(flashcardsFolder)) {
+await app.vault.createFolder(flashcardsFolder);
+}
 
----
+const srPath = ${flashcardsFolder}/${srNote}.md;
+if (!app.vault.getAbstractFileByPath(srPath)) {
+const srContent = [
+'---',
+'type: note',
+'aliases: []',
+'tags: []',
+parent: [[${parentName}]],
+source: [[${title}]],
+moc: [[${mocNote}]],
+'next:',
+'prev:',
+'---',
+'',
+'## Навигация',
+- Исходный конспект: [[${title}]],
+- Карта темы: [[${mocNote}]],
+'',
+'## Карточки',
+''
+].join('\n');
+await app.vault.create(srPath, srContent);
+}
 
-#flashcards/concepts/<% slug %>
+let parentContent = await app.vault.read(parentFile);
+const notesHeader = 'NOTES';
+const notesIndex = parentContent.indexOf(notesHeader);
+if (notesIndex !== -1 && !parentContent.includes([[${title}]])) {
+const afterNotes = parentContent.slice(notesIndex);
+const listRegex = /^- .∗.∗.*$/gm;
+let match;
+let lastMatchEnd = null;
+while ((match = listRegex.exec(afterNotes)) !== null) {
+lastMatchEnd = match.index + match.length;
+}
 
-Что означает [[<% title %>]]?::Краткое определение своими словами.
+let insertPos;
+if (lastMatchEnd !== null) {
+insertPos = notesIndex + lastMatchEnd;
+} else {
+const nlIdx = parentContent.indexOf('\n', notesIndex);
+insertPos = nlIdx === -1 ? parentContent.length : nlIdx + 1;
+}
 
-Где применяется [[<% title %>]]?::Опиши контекст применения в 1–2 предложениях.
+const prefix = parentContent.slice(0, insertPos);
+const suffix = parentContent.slice(insertPos);
+const needsNewline = prefix.endsWith('\n') ? '' : '\n';
+const linkLine = ${needsNewline}- [[${title}]]\n;
+parentContent = prefix + linkLine + suffix;
+await app.vault.modify(parentFile, parentContent);
+}
 
-[[<% title %>]]:::Краткое определение или ключевой смысл.
+tR += `---
+type: note
+aliases:
 
-Какой главный признак у [[<% title %>]]?
-?
-Опиши главный отличительный признак.
-Добавь короткий пример и антипример.
+    "? ${title}"
+    tags: []
+    parent: [[${parentName}]]
+    sr: [[flashcards/${srNote}]]
+    moc: [[${mocNote}]]
+    next:
+    prev:
 
-Какие ограничения есть у [[<% title %>]]?
-??
-Ограничения:
-- ...
-- ...
+Навигация
 
-Типичные ошибки:
-- ...
-- ...
+    Карточки для повторения: [[flashcards/${srNote}]]
 
----
+    Карта темы: [[${mocNote}]]
 
-#flashcards/links/<% slug %>
-
-С какой заметкой сильнее всего связана [[<% title %>]]?::Например, с [[Более общая концепция]], потому что она задаёт рамку.
-
-Какой вопрос ведёт от [[<% title %>]] к [[Связанная заметка 1]]?::Сформулируй мост между двумя идеями.
-
-Что нужно понять раньше, чем изучать [[<% title %>]]?::Укажи prerequisite note через wiki-link.
-
----
-
-#flashcards/examples/<% slug %>
-
-Пример применения [[<% title %>]]::Опиши минимальный рабочий пример.
-
-Контрпример для [[<% title %>]]::Опиши случай, который похож внешне, но не подходит.
-
-Как распознать [[<% title %>]] в рабочей задаче?::Дай наблюдаемый критерий.
-
----
-
-#flashcards/reversible/<% slug %>
-
-Термин [[<% title %>]]:::Определение или ключевой смысл.
-
-Причина и следствие для [[<% title %>]]
-??
-Причина:
-- ...
-- ...
-
-Следствие:
-- ...
-- ...
-
----
-
-#flashcards/review/new-notes #flashcards/hub/<% slug %>
-
-Какой следующий zettel стоит создать после [[<% title %>]]?::Создай заметку на самый недоописанный связанный вопрос.
-
-Что в [[<% title %>]] пока неясно?::Сформулируй пробел в понимании как отдельный вопрос.
+${tp.file.cursor(0)}`;
+-%>
