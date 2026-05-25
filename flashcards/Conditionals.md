@@ -1,4 +1,4 @@
-#flashcards/python/conditional_constructions
+#flashcards/python/conditionas
 
 Оператор `==` при сравнении двух значений  
 ?

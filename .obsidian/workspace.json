@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "flashcards/Условные конструкции.md",
+                "file": "flashcards/Variables.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Условные конструкции"
+              "title": "Variables"
             }
           }
         ],
@@ -191,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "flashcards/Условные конструкции.md",
+                "file": "flashcards/Variables.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Условные конструкции"
+              "title": "Структура Variables"
             }
           }
         ]
@@ -229,7 +229,7 @@
     "flashcards/Functions.md",
     "flashcards/Variables.md",
     "flashcards/Data types.md",
-    "flashcards/Условные конструкции.md",
+    "flashcards/Conditionals.md",
     "home/homepage.md",
     "flashcards",
     "01 Управляющие конструкции Python. Циклы и условия.md",
