@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "flashcards/Variables.md",
+                "file": "flashcards/Functions.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Variables"
+              "title": "Functions"
             }
           }
         ],
@@ -191,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "flashcards/Variables.md",
+                "file": "flashcards/Functions.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Variables"
+              "title": "Структура Functions"
             }
           }
         ]
@@ -226,9 +226,9 @@
   },
   "active": "1cb032c3418546f2",
   "lastOpenFiles": [
-    "flashcards/Data types.md",
     "flashcards/Variables.md",
-    "flashcards/Функции.md",
+    "flashcards/Data types.md",
+    "flashcards/Functions.md",
     "flashcards/Условные конструкции.md",
     "home/homepage.md",
     "flashcards",
