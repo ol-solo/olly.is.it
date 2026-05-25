@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "flashcards/Data types.md",
+                "file": "03 Работа с данными в Python, основы Pandas.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Data types"
+              "title": "03 Работа с данными в Python, основы Pandas"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "flashcards/Variables.md",
+                "file": "flashcards/Без названия.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Variables"
+              "title": "Без названия"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,13 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "flashcards/Variables.md",
+                "file": "03 Работа с данными в Python, основы Pandas.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Variables"
+              "title": "Структура 03 Работа с данными в Python, основы Pandas"
             }
           }
         ]
@@ -224,11 +223,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1cb032c3418546f2",
+  "active": "73646cfd172c29fd",
   "lastOpenFiles": [
-    "flashcards/Functions.md",
-    "flashcards/Variables.md",
     "flashcards/Data types.md",
+    "flashcards/Без названия.md",
+    "flashcards/Variables.md",
+    "flashcards/Functions.md",
     "flashcards/Conditionals.md",
     "home/homepage.md",
     "flashcards",
@@ -255,7 +255,6 @@
     "files/Pasted image 20260512165900.png",
     "Материалы по основам анализа данных.md",
     "Полезные инструкции для учёбы.md",
-    "Материалы по основам Python.md",
     "files/real_estate_data_n_missing (1).csv",
     "files/Pasted image 20260407114332.png",
     "files/Pasted image 20260406175059.png",
