@@ -26,7 +26,7 @@ aliases:
   - "? <%* tR += title %>"
 tags: []
 parent: [[<%* tR += parentName %>]]
-sr: 
+sr:
 moc:
 next:
 prev:

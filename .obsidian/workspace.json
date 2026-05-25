@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Конференция о Python.md",
+                "file": "flashcards/SR - 01 Управляющие конструкции Python. Циклы и условия.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "00 Конференция о Python"
+              "title": "SR - 01 Управляющие конструкции Python. Циклы и условия"
             }
           }
         ],
@@ -191,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Конференция о Python.md",
+                "file": "flashcards/SR - 01 Управляющие конструкции Python. Циклы и условия.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 00 Конференция о Python"
+              "title": "Структура SR - 01 Управляющие конструкции Python. Циклы и условия"
             }
           }
         ]
@@ -226,32 +226,32 @@
   },
   "active": "d1fd4697e4cfd198",
   "lastOpenFiles": [
-    "templates/zettel_note.md",
-    "templates/course_note.md",
-    "templates/code.md",
-    "templates/book_template.md",
-    "templates/article_teamplate.md",
-    "projects/courses/Python для анализа данных.md",
-    "flashcards/SR - 00 Конференция о Python.md",
-    "00 Конференция о Python.md",
-    "flashcards/Без названия.md",
-    "02 Практика.md",
     "01 Управляющие конструкции Python. Циклы и условия.md",
-    "01 Практика.md",
-    "Библиотека Math.md",
-    "Циклы с неизвестным количеством итераций.md",
-    "Без названия 3.md",
-    "Без названия 1.md",
-    "Flashcard.md",
-    "Welcome.md",
-    "test.md",
-    "SR - конференция о питон.md",
-    "MOC - Python для анализа данных.md",
-    "templates/note_template.md",
-    "templates/update_nav_button.md",
-    "templates/embed_current_block.md",
+    "flashcards/SR - 01 Управляющие конструкции Python. Циклы и условия.md",
+    "flashcards/SR - 00 Конференция о Python.md",
     "flashcards/Conditionals.md",
-    "flashcards/MOC - Spaced Repetition.md",
+    "flashcards/Variables.md",
+    "flashcards/Без названия.md",
+    "Арифметические операции.md",
+    "Алгоритмы и сложность.md",
+    "Агрегирующие функции.md",
+    "09 Работа с реальными данными.md",
+    "09 Практика.md",
+    "08 Практика.md",
+    "08 Основы машинного обучения.md",
+    "07 Статистический анализ.md",
+    "07 Практика.md",
+    "06 Практика.md",
+    "06 Исследовательский анализ.md",
+    "05 Практика.md",
+    "05 Визуализация данных.md",
+    "04 Обработка данных.md",
+    "04  Практика.md",
+    "03 Работа с данными в Python, основы Pandas.md",
+    "03 Практика.md",
+    "03 Итоговое задание 1 модуля.md",
+    "02 Продвинутые концепции. Функции и модули.md",
+    "02 Практика.md",
     "flashcards",
     "files/Pasted image 20260512165948.png",
     "files/Pasted image 20260512165906.png",

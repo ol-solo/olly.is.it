@@ -5,8 +5,8 @@ aliases:
 tags: []
 parent:
   - - Python для анализа данных
-sr:
-moc:
+sr: "[[flashcards/SR - 01 Управляющие конструкции Python. Циклы и условия]]"
+moc: "[[Python для анализа данных]]"
 next: "[[01 Практика]]"
 prev: "[[00 Конференция о Python]]"
 ---
