@@ -5,8 +5,8 @@ aliases:
 tags: []
 parent:
   - - Python для анализа данных
-sr:
-moc:
+sr: "[[flashcards/SR - 03 Работа с данными в Python, основы Pandas]]"
+moc: "[[Python для анализа данных]]"
 next: "[[03 Практика]]"
 prev: "[[02 Практика]]"
 ---

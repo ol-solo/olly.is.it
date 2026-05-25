@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Управляющие конструкции Python. Циклы и условия.md",
+                "file": "flashcards/SR - 03 Работа с данными в Python, основы Pandas.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "01 Управляющие конструкции Python. Циклы и условия"
+              "title": "SR - 03 Работа с данными в Python, основы Pandas"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "flashcards/SR - 01 Управляющие конструкции Python. Циклы и условия.md",
+                "file": "03 Работа с данными в Python, основы Pandas.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "SR - 01 Управляющие конструкции Python. Циклы и условия"
+              "title": "03 Работа с данными в Python, основы Pandas"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flashcards/SR - 01 Управляющие конструкции Python. Циклы и условия.md",
+                "file": "03 Работа с данными в Python, основы Pandas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для SR - 01 Управляющие конструкции Python. Циклы и условия"
+              "title": "Обратные ссылки для 03 Работа с данными в Python, основы Pandas"
             }
           },
           {
@@ -190,13 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "flashcards/SR - 01 Управляющие конструкции Python. Циклы и условия.md",
+                "file": "03 Работа с данными в Python, основы Pandas.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура SR - 01 Управляющие конструкции Python. Циклы и условия"
+              "title": "Структура 03 Работа с данными в Python, основы Pandas"
             }
           }
         ]
@@ -225,8 +225,10 @@
   },
   "active": "d1fd4697e4cfd198",
   "lastOpenFiles": [
-    "01 Управляющие конструкции Python. Циклы и условия.md",
     "flashcards/SR - 01 Управляющие конструкции Python. Циклы и условия.md",
+    "flashcards/SR - 03 Работа с данными в Python, основы Pandas.md",
+    "03 Работа с данными в Python, основы Pandas.md",
+    "01 Управляющие конструкции Python. Циклы и условия.md",
     "templates/zettel_note.md",
     "flashcards/SR - 00 Конференция о Python.md",
     "flashcards/Conditionals.md",
@@ -247,10 +249,8 @@
     "05 Визуализация данных.md",
     "04 Обработка данных.md",
     "04  Практика.md",
-    "03 Работа с данными в Python, основы Pandas.md",
     "03 Практика.md",
     "03 Итоговое задание 1 модуля.md",
-    "02 Продвинутые концепции. Функции и модули.md",
     "flashcards",
     "files/Pasted image 20260512165948.png",
     "files/Pasted image 20260512165906.png",
