@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "flashcards/Функции.md",
+                "file": "flashcards/Data types.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Функции"
+              "title": "Data types"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "flashcards/Основы.md",
+                "file": "flashcards/Variables.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Основы"
+              "title": "Variables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "flashcards/Функции.md",
+                "file": "flashcards/Variables.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Функции"
+              "title": "Структура Variables"
             }
           }
         ]
@@ -223,11 +224,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "73646cfd172c29fd",
+  "active": "1cb032c3418546f2",
   "lastOpenFiles": [
-    "flashcards/Условные конструкции.md",
-    "flashcards/Основы.md",
+    "flashcards/Data types.md",
+    "flashcards/Variables.md",
     "flashcards/Функции.md",
+    "flashcards/Условные конструкции.md",
     "home/homepage.md",
     "flashcards",
     "01 Управляющие конструкции Python. Циклы и условия.md",
@@ -254,7 +256,6 @@
     "Материалы по основам анализа данных.md",
     "Полезные инструкции для учёбы.md",
     "Материалы по основам Python.md",
-    "06 Исследовательский анализ.md",
     "files/real_estate_data_n_missing (1).csv",
     "files/Pasted image 20260407114332.png",
     "files/Pasted image 20260406175059.png",
