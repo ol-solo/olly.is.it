@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/zettel_note.md",
+                "file": "01 Управляющие конструкции Python. Циклы и условия.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "zettel_note"
+              "title": "01 Управляющие конструкции Python. Циклы и условия"
             }
           },
           {
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Изменение данных.md",
+                "file": "flashcards/SR - 01 Управляющие конструкции Python. Циклы и условия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Изменение данных"
+              "title": "Обратные ссылки для SR - 01 Управляющие конструкции Python. Циклы и условия"
             }
           },
           {
@@ -177,8 +177,7 @@
               "title": "Очередь заметок на повторение"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "3f608c19513a9dad",
@@ -228,6 +227,7 @@
   "lastOpenFiles": [
     "01 Управляющие конструкции Python. Циклы и условия.md",
     "flashcards/SR - 01 Управляющие конструкции Python. Циклы и условия.md",
+    "templates/zettel_note.md",
     "flashcards/SR - 00 Конференция о Python.md",
     "flashcards/Conditionals.md",
     "flashcards/Variables.md",
@@ -251,7 +251,6 @@
     "03 Практика.md",
     "03 Итоговое задание 1 модуля.md",
     "02 Продвинутые концепции. Функции и модули.md",
-    "02 Практика.md",
     "flashcards",
     "files/Pasted image 20260512165948.png",
     "files/Pasted image 20260512165906.png",
