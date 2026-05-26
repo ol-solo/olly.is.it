@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "flashcards/SR - 06 Исследовательский анализ.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "SR - 06 Исследовательский анализ"
+            }
+          },
+          {
+            "id": "e911c189851587f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 Исследовательский анализ.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "06 Исследовательский анализ"
             }
           }
         ]
@@ -95,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "flashcards/SR - 06 Исследовательский анализ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Welcome"
+              "title": "Обратные ссылки для SR - 06 Исследовательский анализ"
             }
           },
           {
@@ -176,13 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "flashcards/SR - 06 Исследовательский анализ.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Welcome"
+              "title": "Структура SR - 06 Исследовательский анализ"
             }
           }
         ]
@@ -211,6 +225,9 @@
   },
   "active": "d1fd4697e4cfd198",
   "lastOpenFiles": [
+    "06 Исследовательский анализ.md",
+    "flashcards/SR - 06 Исследовательский анализ.md",
+    "Welcome.md",
     "Циклы с неизвестным количеством итераций.md",
     "Flashcard.md",
     "Функции в Python.md",
@@ -234,9 +251,6 @@
     "Без названия.md",
     "flashcards/SR - 01 Управляющие конструкции Python. Циклы и условия.md",
     "flashcards/Functions.md",
-    "flashcards/Data types.md",
-    "flashcards/Conditionals.md",
-    "flashcards/Variables.md",
     "flashcards",
     "files/Pasted image 20260512165948.png",
     "files/Pasted image 20260512165906.png",
