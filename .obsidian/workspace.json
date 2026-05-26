@@ -35,7 +35,8 @@
               "title": "06 Исследовательский анализ"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flashcards/SR - 06 Исследовательский анализ.md",
+                "file": "06 Исследовательский анализ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для SR - 06 Исследовательский анализ"
+              "title": "Обратные ссылки для 06 Исследовательский анализ"
             }
           },
           {
@@ -190,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "flashcards/SR - 06 Исследовательский анализ.md",
+                "file": "06 Исследовательский анализ.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура SR - 06 Исследовательский анализ"
+              "title": "Структура 06 Исследовательский анализ"
             }
           }
         ]
@@ -223,10 +224,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d1fd4697e4cfd198",
+  "active": "e911c189851587f2",
   "lastOpenFiles": [
-    "06 Исследовательский анализ.md",
     "flashcards/SR - 06 Исследовательский анализ.md",
+    "06 Исследовательский анализ.md",
     "Welcome.md",
     "Циклы с неизвестным количеством итераций.md",
     "Flashcard.md",
