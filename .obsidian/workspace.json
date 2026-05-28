@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "9b9967ad993a2abd",
+        "id": "c34928e812a179dd",
         "type": "tabs",
         "children": [
           {
-            "id": "d1fd4697e4cfd198",
+            "id": "ae5717a525d88816",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "flashcards/SR - 06 Исследовательский анализ.md",
-                "mode": "source",
+                "file": "home/homepage.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "SR - 06 Исследовательский анализ"
-            }
-          },
-          {
-            "id": "e911c189851587f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 Исследовательский анализ.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "06 Исследовательский анализ"
+              "title": "homepage"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 Исследовательский анализ.md",
+                "file": "home/homepage.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 06 Исследовательский анализ"
+              "title": "Структура homepage"
             }
           }
         ]
@@ -224,10 +209,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e911c189851587f2",
+  "active": "ae5717a525d88816",
   "lastOpenFiles": [
-    "flashcards/SR - 06 Исследовательский анализ.md",
     "06 Исследовательский анализ.md",
+    "flashcards/SR - 06 Исследовательский анализ.md",
     "Welcome.md",
     "Циклы с неизвестным количеством итераций.md",
     "Flashcard.md",
