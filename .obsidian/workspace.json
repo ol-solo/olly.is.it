@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home/homepage.md",
+                "file": "Продвинутый анализ данных.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "homepage"
+              "title": "Продвинутый анализ данных"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "join",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home/homepage.md",
+                "file": "Продвинутый анализ данных.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура homepage"
+              "title": "Структура Продвинутый анализ данных"
             }
           }
         ]
@@ -211,6 +212,10 @@
   },
   "active": "ae5717a525d88816",
   "lastOpenFiles": [
+    "Встроенные методы Python.md",
+    "04 Обработка данных.md",
+    "projects/courses/Python для анализа данных.md",
+    "home/homepage.md",
     "06 Исследовательский анализ.md",
     "flashcards/SR - 06 Исследовательский анализ.md",
     "Welcome.md",
@@ -233,10 +238,6 @@
     "Заметки.md",
     "новая заметка.md",
     "Базовая математика для анализа данных.md",
-    "flashcards/SR - 03 Работа с данными в Python, основы Pandas.md",
-    "Без названия.md",
-    "flashcards/SR - 01 Управляющие конструкции Python. Циклы и условия.md",
-    "flashcards/Functions.md",
     "flashcards",
     "files/Pasted image 20260512165948.png",
     "files/Pasted image 20260512165906.png",
