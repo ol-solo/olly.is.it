@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Практика.md",
+                "file": "04 Обработка данных.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "01 Практика"
+              "title": "04 Обработка данных"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "appen",
+                "query": "duplica",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Практика.md",
+                "file": "04 Обработка данных.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 01 Практика"
+              "title": "Структура 04 Обработка данных"
             }
           }
         ]
@@ -212,12 +212,13 @@
   },
   "active": "ae5717a525d88816",
   "lastOpenFiles": [
+    "04  Практика.md",
+    "01 Практика.md",
     "Продвинутый анализ данных.md",
     "Обработка списков в цикле.md",
     "Обработка данных.md",
     "Материалы по основам Python.md",
     "06 Исследовательский анализ.md",
-    "04  Практика.md",
     "07 Практика.md",
     "Продвинутый анализ данных - Практика.md",
     "Встроенные методы Python.md",
@@ -237,7 +238,6 @@
     "Строки.md",
     "Словарь.md",
     "Статистика - гипотезы.md",
-    "Статистика - база.md",
     "flashcards",
     "files/Pasted image 20260512165948.png",
     "files/Pasted image 20260512165906.png",
