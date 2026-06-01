@@ -74,8 +74,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -210,8 +209,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae5717a525d88816",
+  "active": "f37552e1059b29a6",
   "lastOpenFiles": [
+    "files/gortenziia_tsvety_lepestki_936761_6016x4016.jpg",
     "04  Практика.md",
     "01 Практика.md",
     "Продвинутый анализ данных.md",
@@ -237,7 +237,6 @@
     "Строки и списки.md",
     "Строки.md",
     "Словарь.md",
-    "Статистика - гипотезы.md",
     "flashcards",
     "files/Pasted image 20260512165948.png",
     "files/Pasted image 20260512165906.png",
